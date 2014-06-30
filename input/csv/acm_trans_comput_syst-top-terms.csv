@@ -1,8 +1,8 @@
 Topic, Top Terms
-Topic 0, network scheduling shared virtual design management efficient fault dynamic tolerance multiprocessors algorithms via reliable evaluation availability lightweight service improving interface
-Topic 1, networks control algorithm traffic mutual new algorithms service access dynamic fast high-speed atomic large editorial measurement lightweight management storage routing
-Topic 2, file applications i/o behavior scheduling based implementation design caching fast processors disk energy-efficient real-time continuous multiprocessors recovery access consistency secure
-Topic 3, support management approach run-time computing effective kernel processors fault-tolerant software processing hardware storage editorial dynamic shared-memory service shared network architectures
-Topic 4, parallel model security shared-memory protection formal computing run-time multiprocessors software algorithms dynamic storage secure processors large efficient design programs synchronization
-Topic 5, special multiprocessor preface objects real-time issue programming kernel support dynamic architectures modeling editorial storage evaluation software shared concurrent atomic virtual
-Topic 6, approach prefetching architectural effective scheduling multiprocessors disk synchronization caching simulation implementation modeling database programming programs storage special preface issue editorial
+Topic 0, scheduling prefetching disk security implementation effective parallel file approach protection caching multiprocessors synchronization algorithms processors database programs heterogeneous based improving
+Topic 1, networks control algorithm approach i/o evaluation new traffic exclusion mutual algorithms access measurement processors management feedback service multiprocessors high-speed atomic
+Topic 2, network dynamic shared efficient support virtual software parallel computing shared-memory run-time processing interface multiprocessors management architectural programs algorithms lightweight architectures
+Topic 3, file applications via behavior i/o fast processors based multiprocessors multicore fault secure recovery storage energy-efficient tolerance database editorial management algorithms
+Topic 4, special preface issue programming storage tolerance fault service algorithms management multiprocessors architectural editorial synchronization lightweight reliable power measurement large-scale mutual
+Topic 5, real-time multiprocessor objects support applications kernel management service atomic modeling storage algorithms architectures tolerance reliable multicast database editorial fault multiprocessors
+Topic 6, design model evaluation continuous services formal replicated consistency methods hardware availability service atomic management simulation secure processors power multiprocessors speculative

@@ -1,31 +1,31 @@
 Topic,Top Terms
-Machine Learning,terms topic_id
 Algorithms,terms topic_id
+Computer Architecture,terms topic_id
+Information Retrieval,terms topic_id
+Embedded Systems,terms topic_id
+Networking,terms topic_id
+Statistical Computing,terms topic_id
+Multimedia,terms topic_id
+Networking-1,terms topic_id
 Telecommunications,terms topic_id
 Bioinformatics,terms topic_id
-Telecommunications-1,terms topic_id
-Multimedia,terms topic_id
-Image Processing,terms topic_id
-Telecommunications-2,terms topic_id
-Image Processing-1,terms topic_id
-Multimedia-1,terms topic_id
-Networking,terms topic_id
-Image Processing-2,terms topic_id
 Sensor Networks,terms topic_id
-Networking-1,terms topic_id
-Telecommunications-3,terms topic_id
-Telecommunications-4,terms topic_id
+Image Processing,terms topic_id
+Multimedia-1,terms topic_id
+Image Processing-1,terms topic_id
+Image Processing-2,terms topic_id
+Telecommunications-1,terms topic_id
+Software Engineering,terms topic_id
+Optimization,terms topic_id
 Image Processing-3,terms topic_id
-Numerical Methods,terms topic_id
-Computer Architecture,terms topic_id
-Telecommunications-5,terms topic_id
-Multimedia-2,terms topic_id
+Algorithms-1,terms topic_id
 Image Processing-4,terms topic_id
-Multimedia-3,terms topic_id
+Telecommunications-2,terms topic_id
+Multimedia-2,terms topic_id
+Computer Architecture-1,terms topic_id
 Metaheuristics,terms topic_id
-Image Processing-5,terms topic_id
-Sensor Networks-1,terms topic_id
-Image Processing-6,terms topic_id
-Embedded Systems,terms topic_id
-Image Processing-7,terms topic_id
-Image Processing-8,terms topic_id
+Machine Learning,terms topic_id
+Algorithms-2,terms topic_id
+Multimedia-3,terms topic_id
+Multimedia-4,terms topic_id
+Computer Architecture-2,terms topic_id

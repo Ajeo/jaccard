@@ -3,7 +3,7 @@
         "values": [
             [
                 "2013", 
-                "0.6744746709934305"
+                "1.2"
             ]
         ], 
         "key": "Information Retrieval"
@@ -12,18 +12,9 @@
         "values": [
             [
                 "2013", 
-                "0.6618853625736172"
+                "1.8"
             ]
         ], 
-        "key": "Image Processing"
-    }, 
-    {
-        "values": [
-            [
-                "2013", 
-                "1.6636399664329524"
-            ]
-        ], 
-        "key": "Image Processing-1"
+        "key": "Soft Computing"
     }
 ]

@@ -1,29 +1,29 @@
 Topic,Top Terms
-Telecommunications,terms topic_id
-Networking,terms topic_id
-Telecommunications-1,terms topic_id
-Networking-1,terms topic_id
-Multimedia,terms topic_id
-Telecommunications-2,terms topic_id
-Multimedia-1,terms topic_id
-Telecommunications-3,terms topic_id
-Sensor Networks,terms topic_id
-Statistical Computing,terms topic_id
-Optimization,terms topic_id
-Circuits and VLSI design,terms topic_id
-Telecommunications-4,terms topic_id
-Telecommunications-5,terms topic_id
-Algorithms,terms topic_id
-Sensor Networks-1,terms topic_id
-Networking-2,terms topic_id
-Telecommunications-6,terms topic_id
-Telecommunications-7,terms topic_id
-Telecommunications-8,terms topic_id
-Telecommunications-9,terms topic_id
-Telecommunications-10,terms topic_id
-Networking-3,terms topic_id
-Soft Computing,terms topic_id
-Telecommunications-11,terms topic_id
-Statistical Computing-1,terms topic_id
-Networking-4,terms topic_id
-Circuits and VLSI design-1,terms topic_id
+Telecommunications,space-time codes block orthogonal transmission distributed relay coding modulation single-carrier linear error via broadband designs amplify-and-forward multicarrier schemes relaying trellis
+Networking,ieee 802.11 scheme multihop algorithm protocol throughput efficient mechanism mac modeling enhanced wlans distributed fairness handover lans wimax 802.16 through
+Telecommunications-1,antenna array beamforming antennas smart arrays method communication algorithm robust communications noise receiver novel phase digital bluetooth environment wideband virtual
+Networking-1,hoc vehicular sensor scheme protocol routing communication network data efficient mobility distributed management mac multicast location secure vanets authentication cross-layer
+Multimedia,frequency offset carrier timing blind joint presence synchronization fast noise selective algorithm equalization uplink errors signal phase symbol ofdma communication
+Telecommunications-2,iterative modulation decoding turbo space-time coded differential multiuser feedback codes receiver low-complexity coding joint decision interference equalization equalizer detector mimo-ofdm
+Multimedia-1,efficient reduction nonlinear strategy special editorial via signal ratio method algorithm signals technique distortion information amplifier novel effects ultra-wideband simple
+Telecommunications-3,interference cancellation new scheme mitigation suppression multipath cochannel lte uplink multistage parallel asynchronous successive time-varying low-complexity downlink considering ds-cdma mimo-ofdm
+Sensor Networks,model propagation modeling urban indoor environments statistical measurement prediction simulation models environment characterization ghz antenna stochastic measurements effects markov path
+Statistical Computing,distribution base station model statistics random optimal unified new stations shadowing distributions lognormal correlation placement functions sensors multiple its local
+Optimization,efficiency uwb application spectral its energy spatial correlation impact signals applications nodes multiple data coded antennas communication between multihop construction
+Circuits and VLSI design,hybrid electric vehicles vehicle battery fuel cell energy management plug-in model modeling experimental novel simulation analytical driving voltage batteries converter
+Telecommunications-4,code acquisition ds-cdma correlated new robust noncoherent receiver signals spreading reception effect downlink orthogonal comments ber spread-spectrum uwb impulse sequences
+Telecommunications-5,transmit antenna selection multiuser feedback precoding capacity rayleigh downlink spatial beamforming correlated information linear limited imperfect space-time impact transmission multiplexing
+Algorithms,optimization approach techniques linear network heterogeneous planning fast search message interference load cooperation algorithm reduced-rank next-generation selection programming algorithms joint
+Sensor Networks-1,sensor location localization tracking distributed measurements environments data positioning algorithm algorithms study filter approach nlos kalman broadcasting position filtering fusion
+Networking-2,admission traffic data multimedia services qos scheduling packet downlink scheme call transmission assignment handoff access capacity soft integrated wcdma management
+Telecommunications-6,multiuser blind receivers equalization multipath receiver ds-cdma detector space-time frequency-selective multicarrier mc-cdma uplink signals communications joint pilot complexity time-varying maximum-likelihood
+Telecommunications-7,scheduling throughput network joint protocol multichannel routing multiuser mesh algorithms user hybrid arq coding opportunistic capacity optimization maximization collision downlink
+Telecommunications-8,allocation resource dynamic cognitive distributed ofdma assignment multiuser constraints downlink relay optimal cross-layer algorithm network scheduling multicell interference maximization rate
+Telecommunications-9,combining rayleigh error nakagami probability rate generalized correlated mrc optimum selection ber rician communications qam average presence exact maximum cochannel
+Telecommunications-10,relay relaying selection amplify-and-forward two-way network coding outage transmission joint multihop beamforming probability opportunistic information dual-hop capacity partial nakagami imperfect
+Networking-3,schemes transmission scheduling optimal delay hybrid scheme arq energy-efficient rate packet digital feedback adaptation code sensor improving delay-tolerant deployment class
+Soft Computing,vehicle road vehicles controller fuzzy video method steering traffic avoidance application robust autonomous model algorithms lateral learning real-time automatic stability
+Telecommunications-11,spectrum cognitive sensing access dynamic multiple sharing radios users gain medium via opportunistic collaborative multiple-access multicarrier multichannel secondary blind hybrid
+Statistical Computing-1,traffic under evaluation link time handoff model capacity modeling effect reverse heterogeneous network coverage soft cell strategies forwarding accurate distribution
+Networking-4,communications satellite communication applications delay capacity technique evaluation efficient ofdm-based digital scenarios transmission optical leo probability packet vehicular implementation real-time
+Circuits and VLSI design-1,electric hybrid vehicles vehicle applications motor drive energy automotive management active strategy optimization fault fault-tolerant switched torque traction suspension parallel

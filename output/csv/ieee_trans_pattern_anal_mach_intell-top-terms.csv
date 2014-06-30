@@ -1,30 +1,30 @@
 Topic,Top Terms
-Natural Language Processing,terms topic_id
-Algorithms,terms topic_id
-Machine Learning,terms topic_id
-Metaheuristics,terms topic_id
-Machine Learning-1,terms topic_id
-Machine Learning-2,terms topic_id
-Metaheuristics-1,terms topic_id
-Algorithms-1,terms topic_id
-Information Retrieval,terms topic_id
-Image Processing,terms topic_id
-Image Processing-1,terms topic_id
-Image Processing-2,terms topic_id
-Image Processing-3,terms topic_id
-Image Processing-4,terms topic_id
-Statistical Computing,terms topic_id
-Machine Learning-3,terms topic_id
-Image Processing-5,terms topic_id
-Natural Language Processing-1,terms topic_id
-Numerical Methods,terms topic_id
-Statistical Computing-1,terms topic_id
-Image Processing-6,terms topic_id
-Statistical Computing-2,terms topic_id
-Discrete Structures,terms topic_id
-Information Retrieval-1,terms topic_id
-Image Processing-7,terms topic_id
-Multimedia,terms topic_id
-Soft Computing,terms topic_id
-Natural Language Processing-2,terms topic_id
-Image Processing-8,terms topic_id
+Natural Language Processing,local correction systems evaluation biometric alignment joint performance algorithms distortion camera translation linear statistical document adaptation dynamical contrast authentication distributions
+Algorithms,new information probabilistic edge editorial interpretation framework scheme contour spatial vision enhancement diffusion stochastic filtering labeling nonlinear integration mathematical reasoning
+Machine Learning,vector via support filters through generalized functions convex sets texture scale space moments function state synthesis symmetry modeling machines invariants
+Metaheuristics,flow optical fast surface accurate optimization global fields gradient recovery vector dense field correspondence structure descriptor solution local variational how
+Machine Learning-1,clustering cluster principal dynamic bayesian appearance discriminative kernel hybrid multiple modeling probabilistic search sampling texture video methods method improved online
+Machine Learning-2,linear reduction graph information extraction dimensionality via minimum discriminant selection criterion neighborhood programming embedding metric framework cuts boosting length dimension
+Metaheuristics-1,parallel labeling algorithms relaxation pattern hierarchical inference multiscale graph its efficient scene discrete probabilistic decomposition syntactic networks order organization structural
+Algorithms-1,vision introduction editors computer special section pattern machine guest architecture methods system 3-d minimization notice interpretation survey graphical energy algorithms
+Information Retrieval,search fast nearest neighbor retrieval method efficient graph computing error large clustering heuristic spaces similarity new aspect least results between
+Image Processing,automatic fingerprint features identification verification real-time information document handwriting retrieval method script time new patterns objects partially online system correlation
+Image Processing-1,registration under descriptors domain fourier range pose illumination facial optimal symmetry multiple partial spectral frequency boundaries kernels lighting generating region
+Image Processing-2,video human sequences moving modeling multiple scenes applications objects visual scene sequence pose framework model-based dynamic their action detecting understanding
+Image Processing-3,objects 3-d three-dimensional active contours use rigid description surfaces articulated regularization multiple parameters recovery methods noisy their prediction recovering generalized
+Image Processing-4,invariant texture transform features rotation extraction local representation wavelet affine hough iterative method scale new efficient patterns gray-scale multiresolution adaptive
+Statistical Computing,pattern binary morphological error probability training sample bayesian distributions algorithms optimal density restoration nonparametric structuring decomposition small size sequential partitioning
+Machine Learning-3,classifier optimal design selection maximum fusion tree decision trees study combination visual set versus comparative systems computational high likelihood multiple
+Image Processing-5,objects 3-d single range pose new orientation determination point view robot line problem position planning constraint navigation mobile acquisition three-dimensional
+Natural Language Processing-1,system neural network inspection integrated processing networks supervised automatic automated comments speech knowledge semantic trees understanding machine environments digital design
+Numerical Methods,visual representation structure applications tensor surface kernel sparse inference approximation voting theory boundary recovery scale-space efficient computation decomposition matrix curvature
+Statistical Computing-1,line drawings single reconstruction hidden method optimization multiple faces manifolds identification intrinsic markov without combining chain estimating drawing manifold fusion
+Image Processing-6,fitting registration curves implicit indexing distance point toward representation theory automatic sparse matrix constrained algebraic surfaces iris polynomials factorization invariant
+Statistical Computing-2,random markov field fields gaussian unsupervised hidden modeling mixture conditional class priors processes selection textured bayesian synthesis latent multimodal texture
+Discrete Structures,active deformable hierarchical dynamic space shapes contours level programming set template two-dimensional curves representation points planar model-based continuous saliency structures
+Information Retrieval-1,edge performance algorithms evaluation clustering measure optimal comparison measures note similarity efficient visual optimization localization parallel search improving detector experimental
+Image Processing-7,camera calibration geometric associate views structure reconstruction perspective multiple between projective constraints two points cameras multiview self-calibration parameters affine control
+Multimedia,adaptive noise smoothing discriminant edges filtering selection restoration filters multidimensional removal parameter filter digital associative unsupervised projection methods applications locally
+Soft Computing,transform digital distance line properties linear curves straight digitized medial segments noisy method discrete axis recursive lines euclidean time algorithms
+Natural Language Processing-2,handwritten character statistical word characters chinese documents decision extraction modeling construction rule similarity language visual real-time method cursive bayes on-line
+Image Processing-8,stereo color geometry surface photometric surfaces reconstruction modeling shading region depth range focus light natural specular illumination scene correspondence scenes

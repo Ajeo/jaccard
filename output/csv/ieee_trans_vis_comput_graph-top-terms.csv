@@ -1,31 +1,31 @@
 Topic,Top Terms
-Human Computer Interaction,terms topic_id
-Medical Computing,terms topic_id
-Bioinformatics,terms topic_id
-Multimedia,terms topic_id
-Metaheuristics,terms topic_id
-Image Processing,terms topic_id
-Machine Learning,terms topic_id
-Software Engineering,terms topic_id
-Logic and Inference,terms topic_id
-Embedded Systems,terms topic_id
-Image Processing-1,terms topic_id
-Numerical Methods,terms topic_id
-Robotics,terms topic_id
-Image Processing-2,terms topic_id
-Human Computer Interaction-1,terms topic_id
-Machine Learning-1,terms topic_id
-Image Processing-3,terms topic_id
-Image Processing-4,terms topic_id
-Image Processing-5,terms topic_id
-Image Processing-6,terms topic_id
-Metaheuristics-1,terms topic_id
-Multimedia-1,terms topic_id
-Modeling and Simulation,terms topic_id
-Numerical Methods-1,terms topic_id
-Image Processing-7,terms topic_id
-Information Retrieval,terms topic_id
-Multimedia-2,terms topic_id
-Robotics-1,terms topic_id
-Platform-based Development,terms topic_id
-Image Processing-8,terms topic_id
+Human Computer Interaction,scalable multivariate displays interaction parallel color environments interface distributed information coordinates optimization immersive display tiled spatial structured calibration style media
+Medical Computing,image images diffusion segmentation applications classification structure editing decomposition application based systems tensor its layouts similarity medical their display fast
+Bioinformatics,maps effects spatial tool structures context occlusion tasks sequences ambient flow use temporal comparative sequence abstraction networks gene tubular experimental
+Multimedia,techniques visualizations augmented graphs technique navigation registration systems reconstruction dense based scatterplot path error planning physically-based matrix points novel comparing
+Metaheuristics,system particle computing trees systems efficient sound digital volumetric graphs medical reeb morse-smale training manifold contour planning gpu complexes parameters
+Image Processing,space visualizations patterns evaluating information high shape textures volumetric features range multidimensional parameter scenes resolution labeling toward theory spatiotemporal relations
+Machine Learning,representation hierarchical time distance series selection real model molecular enhancing metric human multilevel unified graphical objects enhanced level-of-detail structure-based blending
+Software Engineering,adaptive models understanding new large-scale connectivity quality mesh functional edge improving simplification iterative views direct shape marching cubes transformations accuracy
+Logic and Inference,introduction graphics analytics symposium ieee acm hardware software computer conference technology vrst games augmented animation i3d science 2012 descriptors solutions
+Embedded Systems,framework efficient illumination sampling global general terrain propagation accurate real-time effective shading dual view-dependent implementation under depiction image-space procedural animated
+Image Processing-1,modeling animation synthesis geometric model statistical deformable facial solid algorithm texture scene free-form architecture speech data-driven learning task retrieval expression
+Numerical Methods,fields topological flow scalar lines three-dimensional illustrative tensor based structures computation fluid efficient applications coherent generalized simplification vortex liquid boundary
+Robotics,environments information real-time finite element document navigation technique spaces model focus+context novel application smooth its high-order navigating attention walking gpu-based
+Image Processing-2,motion human reduction perception view shape texturing capture different art simulating dimension pose based layered reflectance search power provenance exploratory
+Human Computer Interaction-1,scientific environment comparison collaborative model methods survey complex applications interaction character interactions support behavior multiple nonlinear fields physics-based categorical immersive
+Machine Learning-1,sets meshes estimation level set algorithm curvature adaptive fluids computation feature refinement gradient algorithms dynamics flow unstructured sparse driven method
+Image Processing-3,point video search high-dimensional images mixed analytics clouds placement survey empirical pipeline guided multimodal user cloud transformation photographs density views
+Image Processing-4,clustering interpolation multiscale compression mesh shape via local shapes comparative curve b-spline global cutting vectors conformal results imaging planar wavelets
+Image Processing-5,tracking feature augmented real-time hybrid lighting robust detection overview eye multiple extended texture-based moving interfaces markerless decompositions effective importance designing
+Image Processing-6,networks transfer functions direct automatic deformation function tree model histograms radial generation local material volumetric volumes spherical segmentation radiance space
+Metaheuristics-1,graph mapping texture layout arbitrary map flow via optimal blood transport research anisotropic over flattening features multidimensional domains mass varying
+Multimedia-1,meshes extraction isosurface topology fields subdivision time-varying flexible sampling triangle filtering triangular view-dependent linear particles remeshing sharp noise preserving compression
+Modeling and Simulation,diagrams flows discrete performance treemaps datasets through walking traffic computing redirected voronoi reconstructing euler spatial spatiotemporal constrained multi-scale world browsing
+Numerical Methods-1,flow field streamline line uncertainty fields drawing study time-varying user unsteady implicit generation integral methods time-dependent streak parallel comparing painting
+Image Processing-7,detection collision models image-based deformable volumetric continuous rigid fast between solid bodies objects techniques articulated polygonal simplification hierarchical taxonomy relationships
+Information Retrieval,exploring video through study text case analyzing optimization hierarchies graphs studies motions high-level collections simulations event visually locomotion temporal motion
+Multimedia-2,image reconstruction mesh fast lattice scheme body models polyhedral solids cubic wavelet operations composition warping splines high-quality progressive metamorphosis schemes
+Robotics-1,method display control haptic depth camera field stereoscopic light perceptual integral cues vascular focus optical comparison autostereoscopic feedback intelligent efficient
+Platform-based Development,network construction social parallel architecture heterogeneous parameterization spline simulations hierarchy processing semantic temporal supporting linear approximations corrections multidimensional manipulation matching
+Image Processing-8,multiresolution algorithm ray visibility isosurface gpu fast tracing high-quality geometry grids efficient tetrahedral volumes projection splatting unstructured implicit casting faster

@@ -1,31 +1,31 @@
 Topic,Top Terms
-Multimedia,terms topic_id
-Information Security,terms topic_id
-Embedded Systems,terms topic_id
-Telecommunications,terms topic_id
-Circuits and VLSI design,terms topic_id
-Networking,terms topic_id
-Natural Language Processing,terms topic_id
-Embedded Systems-1,terms topic_id
-Circuits and VLSI design-1,terms topic_id
-Telecommunications-1,terms topic_id
-Computer Architecture,terms topic_id
-Image Processing,terms topic_id
-Networking-1,terms topic_id
-Telecommunications-2,terms topic_id
-Networking-2,terms topic_id
-Multimedia-1,terms topic_id
-Networking-3,terms topic_id
-Information Security-1,terms topic_id
-Algorithms,terms topic_id
-Platform-based Development,terms topic_id
-Natural Language Processing-1,terms topic_id
-Telecommunications-3,terms topic_id
-Image Processing-1,terms topic_id
-Metaheuristics,terms topic_id
-Sensor Networks,terms topic_id
-Multimedia-2,terms topic_id
-Image Processing-2,terms topic_id
-Telecommunications-4,terms topic_id
-Platform-based Development-1,terms topic_id
-Multimedia-3,terms topic_id
+Multimedia,technique decoder efficient decoding wavelet high-speed novel real-time transform consumer detection high-performance code path signal parallel turbo vlsi cell services
+Information Security,user smart authentication remote personalized cards content efficient sharing recommendation program semantic collaborative security recommender schemes interfaces battery networking electronic
+Embedded Systems,decoder efficient h.264/avc encoder hdtv memory broadcasting data stream single processing optimization software mpeg-2 mpeg-4 advanced applications processor hardware avs
+Telecommunications,channels dtv transmission channel over receivers fading atsc robust multipath equalization recovery delay timing dvb-t structure terrestrial vsb tds-ofdm television
+Circuits and VLSI design,display displays plasma driver lcd driving panel high quality television enhancement power liquid crystal new applications backlight low data circuit
+Networking,management energy power smart intelligent efficient service sensor services scheduling dynamic mobility controller integrated zigbee lighting real-time gateway remote device
+Natural Language Processing,noise filter reduction personal detection recorder deblocking hardware scene from h.264/avc extraction change features filtering statistical false contour impulse music
+Embedded Systems-1,generation applications consumer camera its application software extension depth processor evaluation next unit format model synthesis still speech module multi-view
+Circuits and VLSI design-1,low frequency audio complexity synchronization amplifier mode performance applications cmos power fft detection receivers detector synthesizer symbol efficiency hierarchical algorithms
+Telecommunications-1,new communication signals novel sequence optical reduction modulation stereoscopic papr diversity sequences identification advanced schemes partial communications techniques two device
+Computer Architecture,flash consumer storage memory electronics layer nand efficient performance management translation multimedia buffer file techniques flash-based technique improving policy portable
+Image Processing,images error compressed jpeg2000 domain codes algorithms detection quality segmentation real-time analysis visual transcoding from assessment high-quality coded decoding efficient
+Networking-1,streaming over ieee service real-time multimedia qos packet scalable support data adaptation wlan scheduling channel allocation resource delivery model vod
+Telecommunications-2,frequency analysis offset synchronization reception robust receiver noise performance phase channel dtv carrier suppression interference receivers timing dvb-h broadcasting technique
+Networking-2,high performance area bluetooth transmission data personal access supporting over multiple time multimedia evaluation strategy communication rate sensor streaming energy-efficient
+Multimedia-1,error h.264/avc intra h.264 concealment mode prediction vector scalable over mpeg-2 transmission efficient decision novel frame protection selection streaming rate
+Networking-3,sensor protocol information security novel access mechanism indoor scalable model robot key environment applications data speaker routing conditional localization fusion
+Information Security-1,media channel iptv box set-top automatic environments navigation players services secure efficient management gateway simple distribution extended buffer selective portable
+Algorithms,new audio application processing cameras signal mpeg cmos its decoder full search integrated dsp processor filters techniques baseband streaming dab
+Platform-based Development,multimedia services broadcasting interactive receiver development platform virtual portable data t-dmb audio player embedded dtv hybrid service terrestrial receivers video-on-demand
+Natural Language Processing-1,recognition speech robust embedded stabilization interface face environment acoustic enhancement feature sound classification voice enhanced user environments detection human consumer
+Telecommunications-3,power communications communication performance line radio evaluation spectrum indoor cognitive interference applications broadband networking receiver over modem smart from optimal
+Image Processing-1,tracking detection camera real-time robust automatic depth object interface moving surveillance controller applications modeling stereo multiple consumer interaction disparity pattern
+Metaheuristics,frame low rate complexity encoding search bit block h.264 up-conversion efficient transform matching hardware high its vlsi variable power architectures
+Sensor Networks,enhancement histogram contrast dynamic equalization color brightness imaging local compression fuzzy range preserving weighted mapping images compensation tone clustering high
+Multimedia-2,reduction technique power improvement resolution block improved performance analysis compression lcd distortion optimal nonlinear transfer papr combined dual compensation color
+Image Processing-2,display new panel color low-cost plasma images picture driving compression low-power low data visual level gray lossless white without line
+Telecommunications-4,optical disc disk recording drive code correction high front-end drives blu-ray equalizer view receiver vibration dc-free lens actuator set improve
+Platform-based Development-1,automation remote middleware gateway device internet framework integration service monitoring access universal distributed heterogeneous appliances through multimedia solution osgi interoperability
+Multimedia-3,color filter interpolation spatial deinterlacing array correction technique effective temporal new correlation filtering conversion watermarking enhancement efficient practical de-interlacing skin

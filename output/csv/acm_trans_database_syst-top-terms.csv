@@ -1,23 +1,23 @@
 Topic,Top Terms
-Algorithms,terms topic_id
-Logic and Inference,terms topic_id
-Software Engineering,terms topic_id
-Machine Learning,terms topic_id
-Information Retrieval,terms topic_id
-Metaheuristics,terms topic_id
-Networking,terms topic_id
-Software Engineering-1,terms topic_id
-Algorithms-1,terms topic_id
-Telecommunications,terms topic_id
-Metaheuristics-1,terms topic_id
-Software Engineering-2,terms topic_id
-Numerical Methods,terms topic_id
-Machine Learning-1,terms topic_id
-Algorithms-2,terms topic_id
-Metaheuristics-2,terms topic_id
-Multimedia,terms topic_id
-Logic and Inference-1,terms topic_id
-Computer Architecture,terms topic_id
-Logic and Inference-2,terms topic_id
-Machine Learning-2,terms topic_id
-Image Processing,terms topic_id
+Algorithms,dependencies xml languages functional their stream indexes object application normal from decomposition problem mappings documents view security logical synopses top-k
+Logic and Inference,expressions searching hierarchical batched into structured algebra tree inference programs synopses error computation comments networks structures conditions secure transactional mappings
+Software Engineering,multiple object-oriented access flexible schemata support policies forms constraints logical adaptive deductive properties knowledge transactions secure extended authorization formal time
+Machine Learning,file mining organization pattern logic application performance its matching execution streaming update rules simple bounded hierarchical shared transactions environment programs
+Information Retrieval,information xml probabilistic approach modeling continuous results retrieval concepts space incomplete large conceptual objects index synopses keyword extraction structures text
+Metaheuristics,algorithms based incremental graph sql structure natural transitive closure indexing frequent networks universal compression theory xpath problem formal scalable partitioning
+Networking,hashing approach dynamic retrieval linear protocols new trie indexing replication implementing scheme partial file from strategies index partitioned view theory
+Software Engineering-1,views join dynamic querying through sets updates improving performance object sources projection hash framework view cache partitioned conjunctive relation estimating
+Algorithms-1,foreword special temporal section introduction tods issue 2007 papers logical objects relation theory transactions deductive consistency towards mappings universal extended
+Telecommunications,optimal web complex complexity matching mining between values designing partial-match retrieval objects signature joins theory allocation facility applications use error
+Metaheuristics-1,locking recovery associative method processors parallel b-trees concurrent partial b-tree processor time partitioned partitioning transactional set index security allocation xpath
+Software Engineering-2,transaction virtual supporting extension formal extended transactions buffer knowledge machine security consistency relation view deductive theory compression logical sdd-1 towards
+Numerical Methods,relations form nested normal new redundancy problems extended incomplete documents partitioned conjunctive correctness editorial beyond computation methods decomposition adaptive publishing
+Machine Learning-1,large selection similarity optimizing indexing strategies record top-k metric backup shared adaptive joins time factors index bases objects conditions processor
+Algorithms-2,spatial skyline operations spaces reorganization relation joins towards keyword methods moving partitioning high computation programs theory objects networks partitioned mappings
+Metaheuristics-2,approximate fast access cost method constraints multidimensional framework privacy under unified anonymization efficient spaces hashing joins correctness security estimating publishing
+Multimedia,processing efficient streams integrated frequent comments top computing extending simple operations technique xpath networks sdd-1 signature synopses constraints extraction decomposition
+Logic and Inference-1,trees programming models reasoning update exchange sharing about via provenance efficient linear temporal order conceptual mappings inference programs structures deductive
+Computer Architecture,performance efficient implementation replicated storage memory tree approach generalized support construction i/o mapping bounded technique index text transactions logical detection
+Logic and Inference-2,from calculus functions algebra aggregate answering capturing extended set synopses bounds extending translation conjunctive transactions compression authorization estimation formal deductive
+Machine Learning-2,algorithm relation transactions networks finding updating clustering universal consistency theory joins security objects structures formal methods deductive adaptive applications view
+Image Processing,techniques automatic integrity maintenance generation rules approach static active behavior translation facility methods backup objects physical logical deductive view conceptual

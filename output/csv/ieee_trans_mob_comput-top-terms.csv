@@ -1,31 +1,31 @@
 Topic,Top Terms
-Networking,terms topic_id
-Platform-based Development,terms topic_id
-Sensor Networks,terms topic_id
-Telecommunications,terms topic_id
-Networking-1,terms topic_id
-Optimization,terms topic_id
-Algorithms,terms topic_id
-Platform-based Development-1,terms topic_id
-Networking-2,terms topic_id
-Platform-based Development-2,terms topic_id
-Bioinformatics,terms topic_id
-Networking-3,terms topic_id
-Algorithms-1,terms topic_id
-Modeling and Simulation,terms topic_id
-Telecommunications-1,terms topic_id
-Computer Architecture,terms topic_id
-Networking-4,terms topic_id
-Networking-5,terms topic_id
-Platform-based Development-3,terms topic_id
-Networking-6,terms topic_id
-Networking-7,terms topic_id
-Software Engineering,terms topic_id
-Soft Computing,terms topic_id
-Networking-8,terms topic_id
-Telecommunications-2,terms topic_id
-Information Security,terms topic_id
-Telecommunications-3,terms topic_id
-Telecommunications-4,terms topic_id
-Platform-based Development-4,terms topic_id
-Software Engineering-1,terms topic_id
+Networking,bandwidth link schemes downlink improving qos packet modeling fair approximation traffic sharing guarantee resource high-speed umts wcdma multiservice environment model
+Platform-based Development,scheme computing novel cache query coding content processing consistency retrieval mechanism smart environment web study update tree fading collision high-speed
+Sensor Networks,local environments indoor positioning algorithms estimation tracking nlos reducing dynamic localization area enhanced calibration geometry transmissions algorithm via broadcast probabilistic
+Telecommunications,over cooperative multiuser packet channels delivery communication links diversity caching multipath fading statistical mimo game tcp video hybrid progressive ofdm-based
+Networking-1,mac layer qos support study interference selfish carrier behavior effect large link sensing csma integrated under reducing 802.16 node topology
+Optimization,applications constraints dynamic delay under real-time uplink minimum bandwidth energy efficiency lte systems clustering frequency scaling search constraint optimized power
+Algorithms,editorial eic message new from 802.11e wlans editor-in-chief map introduction stations pcs guarantees transactions service dynamic state wlan automatic accurate
+Platform-based Development-1,heterogeneous strategies models relay resource collection node placement code deployment services fault-tolerant cost general evaluating flexible lifetime policies energy-aware implementation
+Networking-2,optimization power control modeling lans topology 802.11 capacity medium bluetooth saving dcf wlan protocols voip points measurement infrastructure scheme contention
+Platform-based Development-2,coverage energy-efficient communication service toward discovery sensors its application low pervasive secure overhead personal relaying localized area information temporal cost
+Bioinformatics,forwarding dissemination opportunistic multicasting exploiting information understanding between patterns broadcasting context propagation awareness scheme contact dynamics multilevel extended energy incentive
+Networking-3,localization tracking detection target fast mobility collaborative based rfid group large-scale system prediction communication reliable movement beacon lightweight architecture sleep
+Algorithms-1,from editorial security guest special papers outstanding context-aware mobility personal learning state transactions automatic use collision synchronization space route gathering
+Modeling and Simulation,cellular algorithm algorithms joint maximizing optimal capacity resource balancing systems ofdma load problem hierarchical theory dynamic impact switching between human
+Telecommunications-1,channel mesh throughput assignment multiradio transmission multirate multichannel qos-aware reliability latency delay minimum slot end-to-end coding guaranteed interference optimization time
+Computer Architecture,energy devices multiple time localization nodes constrained algorithms broadcasting in-network complexity processing cooperative heterogeneous media optimization correlated consumption security streams
+Networking-4,802.11 wlans cross-layer adaptation throughput detection rate tcp measurements fairness interference improving wifi uwb misbehavior greedy traffic through passive interaction
+Networking-5,mobility hybrid mesh stochastic vehicular heterogeneous user pattern forwarding evaluation paging learning replication based strategy schemes maps vector umts cognitive
+Platform-based Development-3,monitoring system energy-efficient environments lifetime framework location-based continuous queries large-scale sharing peer-to-peer support infrastructure measurement scalable context environment localized sparse
+Networking-6,video dynamic scalable multicast streaming over underwater services path wimax aggregation enhanced scheme 802.11n synchronization collision accurate properties state transactions
+Networking-7,cellular multimedia systems cdma resource over traffic dynamic fair secure wideband services user supporting versus heterogeneous new transport communications tcp
+Software Engineering,broadcast spatial construction nodes directional antennas connectivity distribution backbone connected virtual transmission comment range reuse optimizing limited overlay temporal sparse
+Soft Computing,optimal privacy traffic cell online techniques systems via registration signaling distance virtual hop accuracy control area synchronization approximate lan gathering
+Networking-8,random mesh model multicast under mobility geographic node route hybrid attacks manets reception throughput protocols multipacket tree-based distribution waypoint predictive
+Telecommunications-2,cognitive channel selection power control via cooperation users on-demand decentralized rendezvous wi-fi tags primary common speed reactive integrity exploiting opportunities
+Information Security,protocols systems channel algorithm authentication key based signal improved rfid model generation handover from comparison extraction strength broadband shared indoor
+Telecommunications-3,mac cognitive sensing multichannel cooperative protocols opportunistic optimal transmission position impact asynchronous terminal protection method strategies beamforming implementation correlation hidden
+Telecommunications-4,evaluation delay-tolerant manets framework through estimation information social autonomous power selection sharing flow content-based leveraging methods disconnected error low-power sensing
+Platform-based Development-4,control robust admission rate cdma 802.16 call agents heterogeneous environments services broadband based differentiated power manets lan automatic active policies
+Software Engineering-1,framework quality service handoff cross-layer integrated reliable systems packet without noncooperative analytical enabling embedded game-theoretic queuing wimax adaptation games devices

@@ -1,30 +1,30 @@
 Topic,Top Terms
-Social Issues and Practice,terms topic_id
-Metaheuristics,terms topic_id
-Discrete Structures,terms topic_id
-Numerical Methods,terms topic_id
-Numerical Methods-1,terms topic_id
-Numerical Methods-2,terms topic_id
-Computer Architecture,terms topic_id
-Machine Learning,terms topic_id
-Computer Architecture-1,terms topic_id
-Bioinformatics,terms topic_id
-Soft Computing,terms topic_id
-Numerical Methods-3,terms topic_id
-Numerical Methods-4,terms topic_id
-Numerical Methods-5,terms topic_id
-Metaheuristics-1,terms topic_id
-Telecommunications,terms topic_id
-Embedded Systems,terms topic_id
-Numerical Methods-6,terms topic_id
-Telecommunications-1,terms topic_id
-Numerical Methods-7,terms topic_id
-Multimedia,terms topic_id
-Statistical Computing,terms topic_id
-Numerical Methods-8,terms topic_id
-Embedded Systems-1,terms topic_id
-Software Engineering,terms topic_id
-Discrete Structures-1,terms topic_id
-Telecommunications-2,terms topic_id
-Metaheuristics-2,terms topic_id
-Image Processing,terms topic_id
+Social Issues and Practice,library number fast corrigendum normal random generators generation mathematical standard elementary scalable exponential portable computer pseudorandom procedure splines integer testing
+Metaheuristics,partial computation elliptic derivatives interactive fast point [d3]. spectral simple variables continuous sturm-liouville solver ieee accurate system complexity banded arbitrary
+Discrete Structures,matrices eigenvalue problem generalized solve symmetric [f2]. dense iteration real storage large bisection eigenvalues program state tridiagonal subroutine gauss banded
+Numerical Methods,numerical transform minimization inversion laplace software fourier plotting ``algorithm certification three program large-scale related contour truncated transforms bifurcation [j6]. preconditioners
+Numerical Methods-1,programming test quadratic problem large-scale generator network constrained definite simplex sequential positive semidefinite subroutines full flow combination numerical two software
+Numerical Methods-2,automatic program equation integral kind problem second differentiation [h]. three-dimensional regions location approach collocation distance three computation sampling continuation triangle
+Computer Architecture,performance evaluation programs vector routines high-performance real computers set level-3 flexible high related new gamma errors policy suite scientific sequences
+Machine Learning,interpolation series programs multivariate toolbox scattered approximations sets piecewise [z]. shepard test convex taylor hierarchical bivariate use planar accuracy fast
+Computer Architecture-1,sparse design symmetric code solver direct large unsymmetric indefinite evaluation scaling exploiting matrix user out-of-core finite-element packages robust diagonal mixed
+Bioinformatics,arithmetic floating-point precision environment testing square multiple-precision some problem-solving tool multiple mixed rounded variable helmholtz basic extended forms library accuracy
+Soft Computing,analysis runge-kutta error global explicit control ordinary interpolants selection tree algebraic pairs solver techniques stability high-order procedures generation orders finding
+Numerical Methods-3,incomplete computation subroutines gamma equation note integer compute improved factorizations mathieu their airy inverse orders ratios implementations solutions eigenvalues beta
+Numerical Methods-4,matrix blas block generalized triangular recursive sylvester software multiplication fast calculation blocked part processors schur level two stability errors roundoff
+Numerical Methods-5,numerical general computation polynomials two-dimensional object-oriented form library domains homotopy over time forms hermite normal product class tridiagonal collocation [d3].
+Metaheuristics-1,software applications rational constraints from bounds error part processing fixed regression robust orthogonal algebraic interpolation weighted finding distance zero least-squares
+Telecommunications,element finite code manipulation tensor generation computer codes quadrature adaptive symbolic local products globally generic structures efficiency global classes reliable
+Embedded Systems,algebra basic subprograms special model test set sparse usage 539 level translation blas processor multiple programs matrices extended corrigenda interface
+Numerical Methods-6,value solvers stiff numerical two initial ordinary some multistep [f1]. runge-kutta formulas generator evaluation subroutine code variable nonstiff odes based
+Telecommunications-1,adaptive software integration optimal automatic interface parabolic routines over integrals pdes quadrature tests numerical partitioning control interval sturm-liouville based one-dimensional
+Numerical Methods-7,bessel portable subroutine integrals modified argument exponential order least squares coefficients linearly solutions nonnegative 644 arguments iterative refinement weighted positive
+Multimedia,matrix reduction estimation form real hessenberg applications condition profile eigenvalues subroutines solvers calculating codes improving ordering part subroutine estimating hybrid
+Statistical Computing,generating discrete random quadrature distributions general routines cubature variables updating polynomials interpolatory rules from orthogonal weight machine best sampling degree
+Numerical Methods-8,computational from comparison approximation zeros new iterative interface polynomial simultaneous overview standard inverse refinement distribution differentiation sampling collection policy sequences
+Embedded Systems-1,system exact software unconstrained acm mathematical programming gradient [e4]. constrained policy analysis testing least squares architectures generalized that subroutines evaluation
+Software Engineering,sparse matrix framework decomposition partial multifrontal ``algorithm object-oriented factorization [f4]. pivoting storage dense values computations distributed techniques out-of-core elimination [z].
+Discrete Structures-1,sparse software factorization cholesky polynomial matrices study new estimating mathematical case compiler minimal analysis format jacobian triangular subroutines basis hybrid
+Telecommunications-2,block diagonal [s14]. packages almost elimination certain collocation modified software odes row boundary-value [d2]. gaussian probabilities adams column arbitrary spline
+Metaheuristics-2,subroutines approximate solutions grasp quadratic parameters assignment calculation accurate minimum space maximum models set column degree ordering scalar sparse dense
+Image Processing,interpolation surface fitting polynomial curve interval spline smooth cubic bivariate points tension [e2]. distributed procedures accuracy that has local via

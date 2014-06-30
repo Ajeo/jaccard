@@ -1,30 +1,30 @@
 Topic,Top Terms
-Metaheuristics,terms topic_id
-Soft Computing,terms topic_id
-Networking,terms topic_id
-Statistical Computing,terms topic_id
-Telecommunications,terms topic_id
-Sensor Networks,terms topic_id
-Circuits and VLSI design,terms topic_id
-Telecommunications-1,terms topic_id
-Multimedia,terms topic_id
-Telecommunications-2,terms topic_id
-Networking-1,terms topic_id
-Telecommunications-3,terms topic_id
-Telecommunications-4,terms topic_id
-Telecommunications-5,terms topic_id
-Platform-based Development,terms topic_id
-Multimedia-1,terms topic_id
-Networking-2,terms topic_id
-Metaheuristics-1,terms topic_id
-Telecommunications-6,terms topic_id
-Image Processing,terms topic_id
-Computer Architecture,terms topic_id
-Telecommunications-7,terms topic_id
-Machine Learning,terms topic_id
-Telecommunications-8,terms topic_id
-Telecommunications-9,terms topic_id
-Telecommunications-10,terms topic_id
-Networking-3,terms topic_id
-Telecommunications-11,terms topic_id
-Multimedia-2,terms topic_id
+Metaheuristics,time video-on-demand domain fast layer physical zapping dvb-t/h hierarchical optimal comparison communications strategies algorithms atm bands schemes offsets factors sequences
+Soft Computing,network application signal transmitter single design dvb-h distributed memory development coverage television reception high atsc power dab model prediction field
+Networking,wireless delivery broadband access scheduling interactive based allocation techniques protocol users satellite codes resource ofdma dynamic service delay pilot architecture
+Statistical Computing,offset carrier maximum improved sampling likelihood general joint dvb-t2 architecture ici predistortion effect offsets accurate communications network drm atm factors
+Telecommunications,diversity delay tds-ofdm transmit measurement under cyclic dvb-t padding hybrid based dvb offset rate corrections factors communications optimal pilot dvb-t/h
+Sensor Networks,field band radio drm indoor measurements reception trials coverage medium tests sfn dvb-t dvb-h wave mondiale variation results uhf urban
+Circuits and VLSI design,novel timing subjective data information hdtv recovery h.264 symbol without compensation combined modified effective pilot technique bands factors strategies layered
+Telecommunications-1,low complexity reduction new papr decoder embedded pts slm efficient modified blind decoding cancellation communications atm factors schemes bands codes
+Multimedia,coding model distortion frame synthesis via selection view quantization consistent control bit assessment implementation scalable novel efficient improved transform bands
+Telecommunications-2,t-dmb on-channel repeaters repeater symbols based feedback equalization interference cancellation correlation dvb-t pilot advanced atm strategies service communications dynamic factors
+Networking-1,wireless multicast efficient content packet streaming quality-oriented error high-speed control loss mpeg-2 mac cross-layer layer distribution real-time atm protection correction
+Telecommunications-3,data audio based modulation continuous dtv combining code phase cellular atsc environments comments media coding band amplitude signal application low
+Telecommunications-4,interference from analog devices spectrum television adjacent spread co-channel measurements overlay field dvb-t sequence performance strategies impact factors presence part
+Telecommunications-5,phase chinese noise receiver television dttb dtmb standard robust division effects review correction ofdm-based interference joint equalization measurements analytical advanced
+Platform-based Development,evaluation performance dtv study service prediction reception propagation heterogeneous schemes comparative empirical error signal offsets impact techniques effects environment optimization
+Multimedia-1,error algorithms motion modeling rate concealment frame interpolation efficient optimization vector part based corrections h.264/avc perceptual fading communications strategies low-complexity
+Networking-2,scalable multiplexing docsis statistical bandwidth h.264/avc advanced encoded coding traffic dynamic svc streams upstream cable prediction buffering vbr transmissions h.264
+Metaheuristics-1,single approach hybrid new content hierarchical network accurate positioning solution local satellite dvb-t2 analytical environment receiver protection factors communications atm
+Telecommunications-6,power reduction ratio peak-to-average nonlinear efficient companding amplifiers transform predistorter linear overview approach papr communications atm advanced techniques radio structure
+Image Processing,depth coding stereoscopic motion visual disparity viewing perceived images from information effect based videos characterization selective fast low strategies communications
+Computer Architecture,based optimization applications image experience overview high predistortion factor modeling objective predistorter 3d-tv models bands memory accurate embedded advanced dynamic
+Telecommunications-7,reduction papr sequences partial technique distribution mapping tone transmit reduce layered amplitude low-complexity pts sequence optimal slm communications distortion mpeg
+Machine Learning,decision based structure feedback equalizer hybrid temporal mode implementation fast pilot-aided cost methods hierarchical strategies factors hdtv bands accurate svc
+Telecommunications-8,channels synchronization equalization performance fading receivers iterative selective monitoring fast domain ici presence cancellation carrier audio drm frame new low-complexity
+Telecommunications-9,performance decoding assessment modulation dvb-h hpa techniques methods ldpc coded efficiency service dab bit comparison objective spectrum mapping review reception
+Telecommunications-10,detection multiple dtv coding channels dvb automatic mode perceptual access adaptation tds-ofdm broadband uhf packet symbol code sfn factors bands
+Networking-3,rate applications control joint generation streaming 3dtv hybrid stereoscopic effective content 3d-tv conversion demand considering real-time videos allocation network bands
+Telecommunications-11,antenna design new diversity dvb-t2 improved models uplink error-resilient sequence correlation measurements spread communications factors impact receiver advanced review protection
+Multimedia-2,recovery receivers atsc approach novel carrier blind clock enhancement adaptation linear environment continuous presence receiver corrections communications strategies bands amplitude

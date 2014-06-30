@@ -1,30 +1,30 @@
 Topic,Top Terms
-Soft Computing,terms topic_id
-Numerical Methods,terms topic_id
-Machine Learning,terms topic_id
-Algorithms,terms topic_id
-Modeling and Simulation,terms topic_id
-Optimization,terms topic_id
-Numerical Methods-1,terms topic_id
-Optimization-1,terms topic_id
-Embedded Systems,terms topic_id
-Soft Computing-1,terms topic_id
-Soft Computing-2,terms topic_id
-Bioinformatics,terms topic_id
-Information Retrieval,terms topic_id
-Soft Computing-3,terms topic_id
-Soft Computing-4,terms topic_id
-Robotics,terms topic_id
-Algorithms-1,terms topic_id
-Multimedia,terms topic_id
-Machine Learning-1,terms topic_id
-Numerical Methods-2,terms topic_id
-Algorithms-2,terms topic_id
-Soft Computing-5,terms topic_id
-Statistical Computing,terms topic_id
-Telecommunications,terms topic_id
-Soft Computing-6,terms topic_id
-Numerical Methods-3,terms topic_id
-Software Engineering,terms topic_id
-Numerical Methods-4,terms topic_id
-Numerical Methods-5,terms topic_id
+Soft Computing,global disturbance input dynamics saturation asymptotic regulation feedforward dynamic descriptor disturbances actuator linearization local rejection finite-time controller observer subject iss
+Numerical Methods,method new spectral matrix response frequency product inequalities general computation networked algorithm rational negative imaginary estimators transformation means approximation matrices
+Machine Learning,comments reply authors positive note structure variable controllers interpolation [to constraint neural [with real degree realness multipliers strictly proper network
+Algorithms,horizon constrained noise finite receding perturbed quadratic bounded singularly constraints controls quantized infinite continuous regulator contraction problems subsystems state-space nonlinearly
+Modeling and Simulation,mobile agents tracking motion dynamic games cooperative equilibria multi-agent autonomous vehicle groups moving algorithms problems coordination multiple information formation problem
+Optimization,sensor wireless under scheduling production information constraints dynamic communication policies power network routing manufacturing system energy optimization coverage mobile queueing
+Numerical Methods-1,singular decoupling interval observers exact invariant problems generalized application parameterization problem matrices their dynamic matrix state-dependent time-invariant disturbance lmi scaling
+Optimization-1,allocation resource observers asymptotically theory congestion effects sequential variables stable policies through optimization heterogeneous simulation deadlock avoidance globally criterion complete
+Embedded Systems,discrete event discrete-event supervisory decentralized synthesis petri nets supervisors hierarchical timed automata diagnosis graphs verification nonblocking diagnosability abstractions modular framework
+Soft Computing-1,performance tracking mimo periodic limitations plants pole uncertainty simultaneous controller controllers fundamental unstable reference sensitivity plant sampling presence signals under
+Soft Computing-2,tracking hybrid synchronization application global its robustness system quantum controllability attitude asymptotic delay coupled dynamical complex observability simple spacecraft underactuated
+Bioinformatics,conditions sufficient time-varying necessary controllability condition impulsive observability properties descriptor passivity under assignment structural singular asymptotic learning lmi lti parametric
+Information Retrieval,mechanical lpv controlled parameters theorem strategy spatially interconnection algorithm mpc passive two solving efficient bounded lyapunov-based switching interconnected cyclic structure
+Soft Computing-3,controllers delay time-varying time delays results stabilizing multiple input polynomials further controller variable synthesis new large-scale bounded structure cost guaranteed
+Soft Computing-4,time-delay issue delay scanning new time exponential results improved switched criteria some neutral special equivalence lmi remarks delay-dependent discrete equations
+Robotics,boundary dynamics regulation internal equation robotic zero system hybrid manipulators unstable application robot part theory planning observation tracking space models
+Algorithms-1,predictive constrained programming system dynamic optimization problems explicit method constraints algorithm algorithms mpc approximate polynomial based dynamical real-time prediction complexity
+Multimedia,kalman filter filtering system measurements data frequency from delayed filters parameter under models observations inputs extended hammerstein continuous-time wiener domain
+Machine Learning-1,performance [book review models between reduction controller closed-loop methods set complexity variance quadratic order structure measure error asymptotic bounds technique
+Numerical Methods-2,equation equations solution riccati matrix algebraic bounds lyapunov continuous gain problem new periodic differential upper generalized theorem coupled small cascade
+Algorithms-2,optimization convex convergence algorithms approximation network framework consensus perturbation parameter averaging over machines applications flow algorithm system bilinear random asynchronous
+Soft Computing-5,sliding mode time controller integral sliding-mode controllers second-order synthesis switched robustness order discrete switching continuous-time exact delay observers algorithm modes
+Statistical Computing,markov processes jump decision markovian continuous-time chains principle partially optimization separation models cost gaussian almost filtering hidden optimality switching average
+Telecommunications,consensus communication over delays multi-agent time-varying networked channels packet decentralized mean arbitrary multiple random noisy sampled-data topologies convergence synchronization switching
+Soft Computing-6,learning observer unknown affine iterative form observers global switched dynamic based measurement backstepping multivariable gain piecewise time-varying high-order noise tracking
+Numerical Methods-3,lyapunov functions input-to-state quadratic hybrid polynomial function stable laws characterization sets parameter-dependent strict exponentially dissipative parameterized under diffusion smooth synthesis
+Software Engineering,fault based models detection sampled-data actuator compensation framework hysteresis friction isolation symbolic single affine modeling continuous-time active input-output approximate diagnosis
+Numerical Methods-4,problem reduction principle invariance methods differential application partial its general dynamical squares problems maximum balanced equations solution time least information
+Numerical Methods-5,switched quantum positive functions transfer stable reachability function dynamics switching generalized lemma case properties system real controllability bounded lyapunov regions

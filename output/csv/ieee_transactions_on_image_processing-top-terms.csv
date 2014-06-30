@@ -1,30 +1,30 @@
 Topic,Top Terms
-Image Processing,terms topic_id
-Image Processing-1,terms topic_id
-Numerical Methods,terms topic_id
-Statistical Computing,terms topic_id
-Information Retrieval,terms topic_id
-Image Processing-2,terms topic_id
-Numerical Methods-1,terms topic_id
-Image Processing-3,terms topic_id
-Machine Learning,terms topic_id
-Statistical Computing-1,terms topic_id
-Multimedia,terms topic_id
-Telecommunications,terms topic_id
-Numerical Methods-2,terms topic_id
-Statistical Computing-2,terms topic_id
-Software Engineering,terms topic_id
-Numerical Methods-3,terms topic_id
-Multimedia-1,terms topic_id
-Image Processing-4,terms topic_id
-Sensor Networks,terms topic_id
-Algorithms,terms topic_id
-Multimedia-2,terms topic_id
-Multimedia-3,terms topic_id
-Image Processing-5,terms topic_id
-Image Processing-6,terms topic_id
-Multimedia-4,terms topic_id
-Image Processing-7,terms topic_id
-Telecommunications-1,terms topic_id
-Image Processing-8,terms topic_id
-Machine Learning-1,terms topic_id
+Image Processing,operators optimized curve enhancement space depth transforms interpolation piecewise representation method quantization generalized surface its theory planar applications linear through
+Image Processing-1,3-d denoising watermarking objects dct statistical optimal structure mapping spatial representations microscopy models bayesian signals exploiting poisson intensity gamut digital
+Numerical Methods,phase regularization inverse filtering methods stochastic modeling minimum models linear problems global correlation convergence iterative local complexity parameter constraints parametric
+Statistical Computing,random markov field models fields hidden bayesian texture modeling classification hyperspectral unsupervised hierarchical synthesis stochastic character source maximum compound conditional
+Information Retrieval,retrieval framework texture indexing algorithms efficient learning bayesian content-based general classification correction region-based comparison system relevance effective constancy feedback unified
+Image Processing-2,tracking visual object human particle its modeling saliency applications system real-time contour filtering efficient shapes artifacts background online filter generic
+Numerical Methods-1,multiresolution decomposition tomography algorithms nonlinear order quantization applications morphological iterative texture variational higher value statistics automated structure signal compensation mri
+Image Processing-3,2-d morphological binary registration representation wavelets scheme efficient processing transformations complex discrete 3-d spatially labeling tree information shape recursive trees
+Machine Learning,automatic neural extraction region fusion networks network imagery selection target recognition classification algorithms feature text clustering boundary via merging information
+Statistical Computing-1,gaussian generalized enhancement its histogram mixture wavelet-based texture modeling contrast classification scale entropy models fuzzy finite decomposition mixtures probability density
+Multimedia,data efficient discrete parallel watermarking 2-d projections radon reversible method between methods expansion multispectral geometric approximation domain authentication fourier noisy
+Telecommunications,transmission rate scalable over bit allocation error optimal multiple protection distortion control channels joint rate-distortion jpeg2000 jpeg progressive embedded low
+Numerical Methods-2,frame anisotropic interpolation diffusion filtering processing nonlinear tomography regularized method smoothing methods motion-compensated least edge-preserving squares filters deblurring algorithms boundary
+Statistical Computing-2,blind deconvolution bayesian maximum super-resolution variational regularization variation total sensing likelihood prior minimization compressed framework domain blur joint compressive imaging
+Software Engineering,quality assessment perceptual similarity performance natural measure search metric direct index domain algorithms structural evaluation binary improving watermarking statistics visual
+Numerical Methods-3,processing enhancement resolution document digital line imagery edge map nonlinear multiscale hyperspectral differential study super applications sensor context-based diffusion stochastic
+Multimedia-1,error halftoning diffusion prediction concealment improved inverse data block correction object-based perceptually lossless texture multiscale optimized orientation hiding multiframe shape
+Image Processing-4,local texture matching classification invariant recognition gabor features patterns shape pattern binary pyramid lattice face enhanced edge moments rotation combining
+Sensor Networks,imaging radar aperture synthetic fusion sar technique data range three-dimensional high-resolution model-based system targets via target isar spatially backprojection acoustic
+Algorithms,flow active optical level set gradient contours constrained deformable method computation evolution contour variational geometric preserving snakes optimization via models
+Multimedia-2,noise filtering denoising removal reduction fuzzy domain filter impulse bilateral median technique information signal filters correlated digital nonlocal corrupted magnetic
+Multimedia-3,filter filters new directional transforms edge weighted orthogonal demosaicking performance lapped frames kalman hybrid array demosaicing theory extended processing design
+Image Processing-5,feature extraction space local recognition linear new energy discriminant support mathematical face kernel regression morphology scale super-resolution classification geometric tensor
+Image Processing-6,registration camera interpolation method stereo tracking matching view sequences boundary moving distributed three-dimensional object objects point function novel two efficient
+Multimedia-4,optimal filter design multidimensional subband method processing multichannel symmetric banks linear generalized two-dimensional interpolation convolution blind filters identification noisy bank
+Image Processing-7,dynamic 3-d data tomographic range synthesis scalable high real-time depth hierarchical representation videos surfaces systems acquisition sequences microscopy hybrid efficiency
+Telecommunications-1,quantization prediction fractal lossless matching block search thresholding new predictive optimal method quantizer context jpeg template coefficients tree-structured scheme correlation
+Image Processing-8,recognition face object multiple under learning shape sparse features illumination facial kernel points feature representation component tracking matching filters distance
+Machine Learning-1,sparse via learning representation multiscale graph classification interactive matrix sequence spectral inpainting dictionary regression bayesian annotation methods representations training active

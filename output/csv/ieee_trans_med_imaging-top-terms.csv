@@ -1,30 +1,30 @@
 Topic,Top Terms
-Natural Language Processing,terms topic_id
-Medical Computing,terms topic_id
-Robotics,terms topic_id
-Medical Computing-1,terms topic_id
-Metaheuristics,terms topic_id
-Metaheuristics-1,terms topic_id
-Multimedia,terms topic_id
-Statistical Computing,terms topic_id
-Multimedia-1,terms topic_id
-Soft Computing,terms topic_id
-Social Issues and Practice,terms topic_id
-Image Processing,terms topic_id
-Numerical Methods,terms topic_id
-Medical Computing-2,terms topic_id
-Medical Computing-3,terms topic_id
-Image Processing-1,terms topic_id
-Statistical Computing-1,terms topic_id
-Sensor Networks,terms topic_id
-Statistical Computing-2,terms topic_id
-Image Processing-2,terms topic_id
-Software Engineering,terms topic_id
-Algorithms,terms topic_id
-Telecommunications,terms topic_id
-Bioinformatics,terms topic_id
-Medical Computing-4,terms topic_id
-Machine Learning,terms topic_id
-Numerical Methods-1,terms topic_id
-Multimedia-2,terms topic_id
-Image Processing-3,terms topic_id
+Natural Language Processing,framework statistical fusion performance three-dimensional robust deformations probabilistic constrained cardiac through atlas spatially identification multimodal unified varying patch-based level mouse
+Medical Computing,neural lung automated chest network classification radiographs pulmonary airway scans computer-aided computed colonography based artificial nodules radiography networks polyps low-dose
+Robotics,planning visual space validation based learning new neurosurgery structures head x-ray similarity combination two heart dynamic scheme retrieval b-mode algorithms
+Medical Computing-1,microscopy observer fluorescence roc three-class cell human under performance ideal observers optimization framework signals tissue curves area systems surface tracking
+Metaheuristics,emission information noise maximum likelihood mutual algorithms transmission regularization prior weighted comparison maximization positron direct scans penalized correction through anatomical
+Metaheuristics-1,bone parallel fast resolution high design spectral rapid k-space computed regularized gradient accelerated excitation constraints texture class arbitrary trabecular trajectories
+Multimedia,dynamic medical parameter compression wavelet methods joint fast adaptive linear least based bayesian models squares contrast-enhanced filter parametric functional denoising
+Statistical Computing,field random phase markov error multislice correction fields temporal fiducial bias statistical detector distribution localization improved point-based conditional investigation anisotropic
+Multimedia-1,surface sparse particle cortical via learning spherical object representation recovery signal x-ray deformation morphometry filtering harmonic resolution dictionary integrated localization
+Soft Computing,cardiac left ventricular modeling three-dimensional myocardial deformation quantification function study elastic ventricle via ablation echocardiography growth atrial noninvasive regional tracking
+Social Issues and Practice,correction resonance intensity based distortion geometric attenuation inhomogeneity density joint current review artifacts nonrigid maps via digital epi functional retrospective
+Image Processing,tracking active models automated deformable sequences medical shape contour based artery model-based coronary contours appearance robust fully shape-based video set
+Numerical Methods,evaluation beam iterative inverse problem exact algorithms projection cone-beam cone backprojection boundary filtered medical helical methodology numerical rebinning forward solution
+Medical Computing-2,fmri spatial modeling functional adaptive mixture activity subspace bayesian activation resonance characterization series noise structural signal time complex study networks
+Medical Computing-3,flow blood contrast visualization novel coronary arterial technique 2-d mapping digital measurement angiograms based cardiac clinical doppler labeling dynamics enhanced
+Image Processing-1,impedance electrical shape anatomical surfaces statistical volume graph priors cortex structures measurement novel variation matrix optimal resonance monitoring changes cerebral
+Statistical Computing-1,methods comparison tomographic quantitative evaluation computed three-dimensional compensation spiral iterative properties x-ray model-based sampling noise interpolation fully efficient statistical resolution
+Sensor Networks,real-time assessment information new tracking human quality encoding scanner simulation evaluation highly undersampled system endoscopic heterogeneous effects photoacoustic specific synthetic
+Statistical Computing-2,deformation shape models spect myocardial perfusion modeling statistical nonrigid dynamic diffeomorphic based phantom gated 4-d emission mapping large cardiac applied
+Image Processing-2,retinal optical vessel coherence vessels optic fundus color extraction automated human disc filter fuzzy retina measures based digital blood supervised
+Software Engineering,x-ray angiography system spect coronary pinhole geometric projection calibration sensitivity cerebral cone-beam small evaluation single models determination rotational modeling deformable
+Algorithms,validation virtual system visualization surgery computational guidance its image-guided intraoperative breast augmented clinical methods theory prostate results interventional interventions bronchoscopy
+Telecommunications,optical system measurements sensing compensation transmission compressed domain spect accurate effect rigid time incorporating iterative estimating prediction point parameters volumetric
+Bioinformatics,diffusion tensor matter white tractography dti structure applications fiber probabilistic multiple framework nonparametric distributed function uncertainty orientation via continuous identifying
+Medical Computing-4,breast cancer mammograms digital diagnosis computer-aided mammography editorial prostate tumor guest masses tissue microcalcifications mammographic system automated special texture multiple
+Machine Learning,classification based feature characterization volumetric resonance extraction vector dynamic optical selection breast vasculature novel hybrid algorithms multispectral quantifying lesions adaptive
+Numerical Methods-1,vivo mapping elastography finite wave local shear element human tissues resonance soft conductivity measurements displacement velocity simulation heart tissue decomposition
+Multimedia-2,medical based enhancement adaptive wavelet transform fast multiscale processing real-time reduction radial resonance artifact robust speckle frequency nonlinear local new
+Image Processing-3,volume accuracy partial tissue study new classification quantification lesions multiple lesion skin sclerosis region assessment histological presence therapy voxel plaque

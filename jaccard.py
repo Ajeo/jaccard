@@ -69,7 +69,7 @@ def set_top_terms_topic(fi, topics):
             topic_names[topic_name] = 0
 
         topic_maps.append({"id": top_terms["topic_id"], "name": topic_name})
-        output.append([topic_name, ' '.join(top_terms)])
+        output.append([topic_name, ' '.join(top_terms['terms'])])
         topic_name = ''
 
     csv_writer(output, './output/csv/' + fi)

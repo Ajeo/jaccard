@@ -1,20 +1,20 @@
 Topic,Top Terms
-Metaheuristics,terms topic_id
-Machine Learning,terms topic_id
-Image Processing,terms topic_id
-Software Engineering,terms topic_id
-Logic and Inference,terms topic_id
-Computer Architecture,terms topic_id
-Algorithms,terms topic_id
-Software Engineering-1,terms topic_id
-Algorithms-1,terms topic_id
-Discrete Structures,terms topic_id
-Machine Learning-1,terms topic_id
-Statistical Computing,terms topic_id
-Computer Architecture-1,terms topic_id
-Metaheuristics-1,terms topic_id
-Logic and Inference-1,terms topic_id
-Image Processing-1,terms topic_id
-Computer Architecture-2,terms topic_id
-Logic and Inference-2,terms topic_id
-Computer Architecture-3,terms topic_id
+Metaheuristics,partial problem evaluation solution pattern matching bounds space comments strings some can fast parameterized denotational subtyping parallelism note tests pointer
+Machine Learning,parallel generation machines optimal tree state proving finite networks communicating evaluation liveness hierarchical analyses abstraction layout correct adaptive caching uniform
+Image Processing,verification concurrent prolog properties via liveness processes denotational concurrency resource asynchronous theory objects dataflow local rules proving parametric synchronization passing
+Software Engineering,specifications processes synthesis proof sequential correctness communicating proofs computations system design from temporal axiomatic toward reduction mobile optimizing development csp
+Logic and Inference,functional calculus loops design practical predicate recursion operations floating-point polymorphic equations study development abstraction compilation handling access concurrency probabilistic adaptive
+Computer Architecture,based communication scheduling linear grammar data-flow evaluator management global attribute storage trace complexity software higher-order parallelism functions constraints user probabilistic
+Algorithms,machine storage transformations objects software theory instructions handling construction services functions note study synchronization information resource parsing polymorphic editorial constraints
+Software Engineering-1,program time slicing dependence transformation structures support use development new transformations abstraction theory software compilation definition through parallelization study tests
+Algorithms-1,error modular recovery flexible parsers syntactic global environments repair new syntax parsing problems user abstraction functions generating higher-order constraint refinement
+Discrete Structures,graph bytecode form computing assignment translation reduction constraint vector on-the-fly rules construction structured editorial object standard objects synchronization iteration functions
+Machine Learning-1,incremental algorithm evaluation grammars attribute interpretation propagation lazy hierarchical constraint part demand-driven parsing editors trees case constraints caching dataflow translation
+Statistical Computing,concurrent variables symbolic experimental representations objects debugging optimized compilers polymorphic implementing denotational typing resource software demand-driven analyses modules passing note
+Computer Architecture-1,compiler framework allocation register embedded fast memory via cache performance equations software demand-driven processors pointer machine typed axiomatic iteration compile-time
+Metaheuristics-1,termination algorithms garbage detection collection algorithm derivation transformational its lisp from on-the-fly object handling machine trees descriptions reference csp constraints
+Logic and Inference-1,system interprocedural formal inference recursive effective from definitions shape eliminating pointer polymorphic definition csp typed software constraint subtyping generating access
+Image Processing-1,techniques rewriting without temporal binary verifying compaction management memory environments software through objects debugging translation dataflow syntax local typed processors
+Computer Architecture-2,execution technique applications automated compilation compilers machine optimizations conversion software repair safe loop objects ada correct computations information functions transformations
+Logic and Inference-2,model checking reasoning about new shared relational method probabilistic real-time abstraction software cost theory trees translation local interfaces web compile-time
+Computer Architecture-3,expressions computation array memory graphs algebraic practical iterative errors fast access higher-order definition pointer vector through reference processors dataflow analyses

@@ -1,30 +1,30 @@
 Topic,Top Terms
-Discrete Structures,terms topic_id
-Telecommunications,terms topic_id
-Algorithms,terms topic_id
-Circuits and VLSI design,terms topic_id
-Statistical Computing,terms topic_id
-Circuits and VLSI design-1,terms topic_id
-Computer Architecture,terms topic_id
-Metaheuristics,terms topic_id
-Computer Architecture-1,terms topic_id
-Computer Architecture-2,terms topic_id
-Circuits and VLSI design-2,terms topic_id
-Natural Language Processing,terms topic_id
-Computer Architecture-3,terms topic_id
-Computer Architecture-4,terms topic_id
-Circuits and VLSI design-3,terms topic_id
-Circuits and VLSI design-4,terms topic_id
-Discrete Structures-1,terms topic_id
-Computer Architecture-5,terms topic_id
-Embedded Systems,terms topic_id
-Embedded Systems-1,terms topic_id
-Circuits and VLSI design-5,terms topic_id
-Platform-based Development,terms topic_id
-Telecommunications-1,terms topic_id
-Circuits and VLSI design-6,terms topic_id
-Multimedia,terms topic_id
-Soft Computing,terms topic_id
-Circuits and VLSI design-7,terms topic_id
-Circuits and VLSI design-8,terms topic_id
-Circuits and VLSI design-9,terms topic_id
+Discrete Structures,multiplication multiplier parallel algorithm new over field gf(2 modified multipliers decomposition basis finite systolic modular complexity implementation low polynomial fir
+Telecommunications,error redundancy memories soft coding built-in high performance rate synchronization nonlinear multiprocessors low-cost tolerance rams noc critical techniques model socs
+Algorithms,editorial guest computing interconnect special prediction section integration multilevel ieee asynchronous system-level silicon asic standard environment issue validation aging autonomous
+Circuits and VLSI design,process variations timing variation clock under delay yield supply adaptive noise statistical impact body bias temperature due presence jitter compact
+Statistical Computing,detection digital concurrent hardware correction built-in filter testing error methods pipelined analog linear method technique system-on-chip diagnosis buses generator evaluation
+Circuits and VLSI design-1,asynchronous communication through fpga encoding chip mapping sequential bus address dynamically technology codesign technique robust recovery unified vco testing high-performance
+Computer Architecture,algorithm architectures memory fpgas reconfiguration algorithms optimal physical partitioning coarse-grained partial core network filters block dsp arrays utilization exploration cost-effective
+Metaheuristics,cache reducing consumption techniques routing approach partitioning management network matching placement processors low variable aware flow length hardware/software high-level activity
+Computer Architecture-1,memory area cell yield reliability sensing throughput efficiency statistical speed virtual implementation improvement access transfer packet magnetic power-gated high scalable
+Computer Architecture-2,processor scalable adder processors tree adders floating-point flexible parallel architectures comparison full carry post-silicon arithmetic datapath fast optimized generators low-energy
+Circuits and VLSI design-2,distribution networks clock high-performance differential integrated algorithm prediction skew fully high-speed optical placement combinational net general buffer inductive style exploiting
+Natural Language Processing,generation pattern verification automatic compression cores secure scan behavioral socs generator framework testing multiple robust schemes mixed-signal attacks identification testability
+Computer Architecture-3,processing image applications signal compression implementation video algorithm high-performance high dsp real-time novel code algorithms analog h.264/avc motion function engine
+Computer Architecture-4,scheduling memory management high-level energy-efficient storage allocation approach real-time constraints applications soft through under thermal integrated resource task information heterogeneous
+Circuits and VLSI design-3,3-d integrated characterization networks via integration ics distributed large decoupling transceiver network designing tsv digital thermal maximum hierarchical custom considerations
+Circuits and VLSI design-4,low supply clock threshold level dual multiple assignment high voltages register domino transistor gates high-speed technique flip-flop designs single driver
+Discrete Structures-1,scaling fpga low random techniques blocks sram layout fault switch tolerance gaussian new latency online generalized number family flip-flops characteristics
+Computer Architecture-5,performance techniques fpgas processors cache instruction set architectural processor application architectures software hardware mapping computation application-specific compiler reduction parameterized consumption
+Embedded Systems,delay fault path faults testing functional detection transition tests diagnosis selection improving sets generation scan broadside coverage bist simulation compaction
+Embedded Systems-1,fpga processor implementation performance processors elliptic curve run-time arithmetic technology supporting pipelines flow frequency impact cryptography variable cryptographic hardware routability
+Circuits and VLSI design-5,interconnect model modeling timing accurate microprocessor models performance transmission simulation statistical evaluation system-level bounds fast delay lines computation switching sensors
+Platform-based Development,hardware applications methodology soc exploration application from its space architectural memory multimedia level i/o novel hierarchical heterogeneous mobile digital designs
+Telecommunications-1,decoder decoding codes architectures decoders low parallel reed-solomon ldpc turbo implementation high-throughput wireless high-speed low-complexity adaptive area-efficient soft-decision viterbi baseband
+Circuits and VLSI design-6,interconnects global modeling interconnect inductance methodology routing insertion method delay rlc nanometer signaling extraction automated capacitance effect exploring repeater model
+Multimedia,digital frequency converter asynchronous processing signal scheme scaling converters high-speed synchronous programmable via pipelined tuning buck applications range dc-dc filter
+Soft Computing,technique adaptive scheme gating fast hybrid amplifier clock robust control mode network-on-chip loop phase current all-digital compensation transition clustering sense
+Circuits and VLSI design-7,noise crosstalk designs modeling bus switching case study reduction effects sequential substrate ground avoidance simulation simultaneous buffer coupling networks-on-chip accurate
+Circuits and VLSI design-8,gate programmable array arrays routing field new fast field-programmable fault-tolerant approach effect compact low-voltage interconnection enhancing floating enhancement arithmetic monitoring
+Circuits and VLSI design-9,leakage reduction gate current control minimization deep techniques sram technologies sleep noise novel submicron subthreshold static supply active transistor sizing

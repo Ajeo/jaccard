@@ -1,27 +1,27 @@
 Topic,Top Terms
-Bioinformatics,terms topic_id
-Embedded Systems,terms topic_id
-Circuits and VLSI design,terms topic_id
-Circuits and VLSI design-1,terms topic_id
-Embedded Systems-1,terms topic_id
-Circuits and VLSI design-2,terms topic_id
-Circuits and VLSI design-3,terms topic_id
-Networking,terms topic_id
-Embedded Systems-2,terms topic_id
-Embedded Systems-3,terms topic_id
-Soft Computing,terms topic_id
-Embedded Systems-4,terms topic_id
-Embedded Systems-5,terms topic_id
-Circuits and VLSI design-4,terms topic_id
-Statistical Computing,terms topic_id
-Computer Architecture,terms topic_id
-Embedded Systems-6,terms topic_id
-Metaheuristics,terms topic_id
-Discrete Structures,terms topic_id
-Platform-based Development,terms topic_id
-Circuits and VLSI design-5,terms topic_id
-Embedded Systems-7,terms topic_id
-Logic and Inference,terms topic_id
-Embedded Systems-8,terms topic_id
-Circuits and VLSI design-6,terms topic_id
-Embedded Systems-9,terms topic_id
+Bioinformatics,instruction set pipelined timing encoding hardware/software custom structures register application-specific sharing emulation reordering reducing resource static high sequences compression coverage
+Embedded Systems,energy methodology vliw optimizations compiler optimizing low module instruction switch bus global testing optimization custom implementation compression access fault concurrent
+Circuits and VLSI design,optimization synthesis scheduling binding high-level during resource sizing behavioral distributed energy problem planning accurate low effects application register rtl hierarchical
+Circuits and VLSI design-1,logic optimization based combinational arrays methodology symbolic computation implications modules reliability exploiting yield synchronous boolean access simulation sequences microprocessor static
+Embedded Systems-1,hardware faults using codesign signal digital processing testing cores chain linear energy-efficient transition scheme environment ilp concurrent coverage boolean systemc
+Circuits and VLSI design-2,mapping fpga technology sequential application decomposition lut-based designs evaluation fast structural clock machine boolean fault high concurrent coverage floorplan satisfiability
+Circuits and VLSI design-3,using effective memories blocks large applications compaction block cell path rectilinear multiple effects framework selection code fault congestion cmos compression
+Networking,placement code scheduling leakage register optimal using pipelining multiple data loops dual assignment simultaneous energy-efficient dynamic synchronous heterogeneous datapath compression
+Embedded Systems-2,architecture validation crosstalk interconnect method compact wire methodologies over sequential tools language customization selection high-level fault survey floorplan concurrent environment
+Embedded Systems-3,efficient low-power synthesis vlsi placement gating from buffer testing synchronous specification specifications dataflow partial stochastic reducing high-level cell technique voltage
+Soft Computing,data control dynamic detection technique management reuse input error scheme level designs simultaneous register fault properties rate cmos caches temporal
+Embedded Systems-4,synthesis automatic multiple floorplanning formal behavioral dynamic using integration probabilistic planning fpga retiming platform sequential temporal physical hardware/software interconnect integrated
+Embedded Systems-5,modeling via high-level efficient microprocessors level area layout error simulation switch rtl tools heterogeneous clustering programmable floorplan rate fault satisfiability
+Circuits and VLSI design-4,optimization voltage assignment clock under timing hybrid constraint tree skew router routability area insertion soc variations global sequences floorplan access
+Statistical Computing,on-chip communication process synthesis exploration trade-offs approaches random architectural datapath programmable method bus network-on-chip survey microprocessor customization evaluation boolean environment
+Computer Architecture,applications multiprocessor real-time exploration space soc energy computation system-on-chip system-level exploiting reducing reliability constraints coverage compression concurrent high floorplan satisfiability
+Embedded Systems-6,parallel editorial special introduction section acm platforms chip new issue todaes automation hardware programming concurrent environment static boolean satisfiability implementation
+Metaheuristics,partitioning fpgas functional constraints performance scheduling structural resource-constrained fast computing problem over improved temporal caches programming high fault survey clustering
+Discrete Structures,minimization optimal high-performance based clock simultaneous steiner construction rectilinear tree low path system-on-chip machines access sequences boolean properties floorplan integrated
+Platform-based Development,system adaptive management allocation partitioning virtual channel heterogeneous hardware-software machines network-on-chip problem computing energy-efficient energy fault environment congestion cmos caches
+Circuits and VLSI design-5,analog fast processor models low-power network heuristic linear accurate ilp yield simulation satisfiability integrated implementation caches coverage boolean customization rate
+Embedded Systems-7,synthesis networks system-level flow sensor wireless node transformation physical minimization processing platform controllers congestion concurrent static coverage properties boolean environment
+Logic and Inference,using simulation machine state graphs finite logic framework language decomposition network boolean properties customization fault systemc environment rate coverage transition
+Embedded Systems-8,using checking equivalence formal sequential datapaths programs rtl controllers retiming virtual systemc concurrent integrated coverage fault high survey floorplan static
+Circuits and VLSI design-6,designs thermal efficient runtime monitoring through adaptive online phase floorplans mpsoc reliability modeling buffer variations performance architectural implementation coverage survey
+Embedded Systems-9,estimation cache framework code performance size processor storage hierarchical compilation modeling incremental data applications minimization retargetable transformations optimized selection improved

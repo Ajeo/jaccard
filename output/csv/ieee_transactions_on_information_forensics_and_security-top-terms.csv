@@ -1,29 +1,29 @@
 Topic,Top Terms
-Networking,terms topic_id
-Image Processing,terms topic_id
-Multimedia,terms topic_id
-Platform-based Development,terms topic_id
-Information Security,terms topic_id
-Medical Computing,terms topic_id
-Bioinformatics,terms topic_id
-Algorithms,terms topic_id
-Medical Computing-1,terms topic_id
-Information Security-1,terms topic_id
-Human Computer Interaction,terms topic_id
-Multimedia-1,terms topic_id
-Information Security-2,terms topic_id
-Circuits and VLSI design,terms topic_id
-Telecommunications,terms topic_id
-Image Processing-1,terms topic_id
-Telecommunications-1,terms topic_id
-Platform-based Development-1,terms topic_id
-Telecommunications-2,terms topic_id
-Information Security-3,terms topic_id
-Software Engineering,terms topic_id
-Telecommunications-3,terms topic_id
-Image Processing-2,terms topic_id
-Multimedia-2,terms topic_id
-Statistical Computing,terms topic_id
-Numerical Methods,terms topic_id
-Multimedia-3,terms topic_id
-Telecommunications-4,terms topic_id
+Networking,approach information coding traffic feature filtering efficient measure privacy-preserving network iris hybrid distributed image-quality resilient phase fair information-theoretic trusted transmission
+Image Processing,models protection techniques active extraction watermark distribution point sensitivity speaker signals access resilient extended frequency jpeg multimodal graphical hardware broadcast
+Multimedia,data adaptive hiding method spectrum spatial spread-spectrum technique spread improved tracking domain novel hidden pixel steganographic watermarks trusted differential hardware
+Platform-based Development,through codes security large-scale optical multimedia elections internet integrity scan toward 2-d voting storage management user theory arithmetic trusted anomaly
+Information Security,detection verification blind efficient approach constrained spectral comprehensive solution gradient via from schemes intrusion fair anomaly formal multimodal watermarks graphical
+Medical Computing,fingerprint steganography approach algorithms study latent empirical databases automated segmentation mobile high side use retrieval construction dental information-theoretic reconstruction transmission
+Bioinformatics,performance recognition human evaluation from iris large gait database covert system sequences experimental compression toward coding effect adaptive environment approach
+Algorithms,editorial voting electronic guest distance special communication detection generation trusted management enhancing trust multimodal anomaly intrusion block devices user differential
+Medical Computing-1,estimation application signature verification automatic trust study online keys temporal optimal software comparative signatures establishment modeling fingerprint model algorithm template
+Information Security-1,visual schemes cryptography dynamic secret sharing algorithm general quantitative group distribution security steganography pixel extended multiple markov construction monitoring public
+Human Computer Interaction,information behavior forensics design modeling methodology random stochastic visual side visible devices construction hardware theory user graphical trusted transmission compressed
+Multimedia-1,digital classification fusion from pattern camera noise forgeries exposing source enhancing pairwise color message estimation jpeg statistical correlation mimo traces
+Information Security-2,data hiding security against reversible attack compressed encrypted code message capacity fast their encryption signals arithmetic performance speech between block
+Circuits and VLSI design,its applications audio error motion soft environment clustering biometrics forensics high retrieval anti-forensics user traces theory anomaly devices hardware trusted
+Telecommunications,secrecy channel wiretap over multiple communication design graph fading constraints capacity rate strong access optimal binary side block broadcast effect
+Image Processing-1,recognition 3-d system feature local facial features subspace extraction representation shape transforms modeling gait information fast gaussian tracking binary camera
+Telecommunications-1,security physical-layer age joint relay continuous jamming two-way communications hybrid user across devices theory between broadcast structure block cooperative selection
+Platform-based Development-1,data distributed control access mobile sharing architecture cloud flexible storage scalable network privacy encrypted devices intrusion trusted reconstruction information-theoretic across
+Telecommunications-2,transform fingerprinting model network frequency fourier practical estimation timing improved decoding presence extraction jamming anti-forensics broadcast transmission differential covert structure
+Information Security-3,protocol privacy fuzzy novel algorithm preserving surveillance fast anonymous discriminant search characterization malicious matrix facial 3-d model general 2-d fair
+Software Engineering,hashing encryption modulation index recognition quantization models security case part multiple speech perceptual use applications from phase retrieval graphical intrusion
+Telecommunications-3,fingerprinting under selection noise game cooperative codes layer monitoring physical securing ad-hoc mimo information-theoretic retrieval devices block intrusion transmission user
+Image Processing-2,biometrics cryptographic iris visible degraded method features data gabor indexing quality assessment scalable management multimodal spectrum hardware reconstruction broadcast structure
+Multimedia-2,detection detecting via jpeg compression forgery matrix artifacts quantization anti-forensics level anomaly watermarks traces intrusion theory reconstruction graphical multimodal experimental
+Statistical Computing,detection statistical exploiting localization model under linear domain malware wavelet presence fingerprinting improved markov hidden digital hardware structure differential control
+Numerical Methods,binary discriminant information generating methods flow cover steganographic template effect level tracking differential noise watermarks sketches block structure graphical multimodal
+Multimedia-3,fingerprints digital via forensic learning sensing processing intrinsic forensics signal enf representation scalar evaluation source perceptual phase algorithms detecting formal
+Telecommunications-4,channel secret agreement gaussian generation from fading vector public communication temporal signal correlation rate transmission broadcast anomaly multimodal reconstruction hardware

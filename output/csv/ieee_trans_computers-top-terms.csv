@@ -1,29 +1,29 @@
 Topic,Top Terms
-Algorithms,terms topic_id
-Computer Architecture,terms topic_id
-Information Retrieval,terms topic_id
-Numerical Methods,terms topic_id
-Algorithms-1,terms topic_id
-Discrete Structures,terms topic_id
-Algorithms-2,terms topic_id
-Computer Architecture-1,terms topic_id
-Information Security,terms topic_id
-Metaheuristics,terms topic_id
-Metaheuristics-1,terms topic_id
-Embedded Systems,terms topic_id
-Circuits and VLSI design,terms topic_id
-Networking,terms topic_id
-Metaheuristics-2,terms topic_id
-Circuits and VLSI design-1,terms topic_id
-Computer Architecture-2,terms topic_id
-Soft Computing,terms topic_id
-Computer Architecture-3,terms topic_id
-Discrete Structures-1,terms topic_id
-Platform-based Development,terms topic_id
-Discrete Structures-2,terms topic_id
-Networking-1,terms topic_id
-Platform-based Development-1,terms topic_id
-Discrete Structures-3,terms topic_id
-Embedded Systems-1,terms topic_id
-Computer Architecture-4,terms topic_id
-Computer Architecture-5,terms topic_id
+Algorithms,codes editors introduction special guest detecting correcting section note errors unidirectional systematic arithmetic double byte measurement error-correcting code cloud single
+Computer Architecture,fast transform functions discrete fourier computation implementation evaluation arithmetic transforms array multipliers function elementary new its computing comments number processors
+Information Retrieval,multiprocessor distributed large models comments database networks databases control processing note synchronization queueing objects probabilistic associative graphs decomposition local concurrency
+Numerical Methods,division square root unit radix computation method selection tables high-speed table rounding floating-point technology physical some logical multiplication architecture higher
+Algorithms-1,neural optimization nets model application stochastic solution general petri distributed dynamic its behavior clock problem computing modeling equations synchronization environment
+Discrete Structures,finite complexity gf(2 multiplier over field multipliers multiplication fields new architectures basis systolic fast normal representation polynomial low bit-parallel ^m).
+Algorithms-2,implementation hardware application applications theory cellular computers its cordic their automata curve point curves encryption blocks elliptic generator comments new
+Computer Architecture-1,cache prediction program architecture improving instruction memories vector latency simulation virtual branch caches prefetching hardware disk through interleaved based evaluation
+Information Security,self-checking codes code totally checkers checker attacks new secure against search based embedded generalized protection use attack self-testing partitioning low-cost
+Metaheuristics,bounds bound time minimum sorting use maximum on-line simple priority lower improved complexity two loops least upper analog measures dependencies
+Metaheuristics-1,networks hypercubes trees tree graphs binary embedding arrays multiple paths failures faulty into minimum tolerance star structures partitioning parity constructing
+Embedded Systems,arrays array vlsi modular systolic sorting redundancy hardware architecture processors concurrent multiplication matrix reconfiguration processor pipelined architectures linear reliability reconfigurable
+Circuits and VLSI design,networks combinational delay faults reliability switching simulation modeling study digital results testing synthesis generation computing method diagnosis statistical mos testability
+Networking,communication evaluation control modeling ring recovery protocol based computational networks protocols performability schemes study cost optical reliability case asynchronous storage
+Metaheuristics-2,scheme storage set problem method memories bubble flash dynamic magnetic designing classification space improved based partitioning file learning problems vector
+Circuits and VLSI design-1,sequential machines faults state arrays synchronous tests universal combinational programmable multiple testable testing generation diagnosis asynchronous circuit from sequences scan
+Computer Architecture-2,distributed allocation task tasks resource computing assignment heterogeneous constraints execution asynchronous periodic time model processor servers file microprocessor hard utilization
+Soft Computing,networks interconnection model diagnosis multistage under diagnosability permutation comparison meshes multiprocessor based diagnosable graphs mapping class regular topology control units
+Computer Architecture-3,processors reconfigurable high-performance architectures designs overhead models automatic embedded high computing repair dynamically vlsi generation implementation implementing tradeoffs low execution
+Discrete Structures-1,functions binary decision switching comments multiple-valued diagrams minimal some diagnosis theory methods function trees multivalued between arbitrary authors two properties
+Platform-based Development,power embedded management applications processors energy architecture dynamic control support operating techniques software architectural adaptive hardware multicore integrated estimation register
+Discrete Structures-2,functions boolean minimization generalized signature synthesis linear reed-muller multiple function shift optimization complexity aliasing counters technique reduction feedback sets output
+Networking-1,networks wireless sensor mobile distributed protocol broadcast channel access local communication hoc information placement reliable multihop multiple scheme control management
+Platform-based Development-1,testing pattern random memories recognition generation access codes faults patterns optimization methods dynamic weighted balanced environment sequential content functional recursive
+Discrete Structures-3,arithmetic number binary residue redundant addition floating-point adders modulo new high-speed fast comments integer adder representations implementation multiplier numbers logarithmic
+Embedded Systems-1,digital processing architecture image linear processor verification signal solution algorithm-based tolerance images problem applications two-dimensional language programming flow computation correction
+Computer Architecture-4,multiprocessor cache exploiting networks locality value prediction asynchronous instruction improving variable approximate single models its spatial model modeling set their
+Computer Architecture-5,multiprocessors processor architecture load adaptive cache management strategy scalable packet distributed networks control hierarchical hypercube balancing flow buffer sharing hybrid

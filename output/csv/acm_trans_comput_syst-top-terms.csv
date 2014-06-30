@@ -1,8 +1,8 @@
 Topic,Top Terms
-Computer Architecture,terms topic_id
-Networking,terms topic_id
-Computer Architecture-1,terms topic_id
-Computer Architecture-2,terms topic_id
-Algorithms,terms topic_id
-Computer Architecture-3,terms topic_id
-Software Engineering,terms topic_id
+Computer Architecture,scheduling prefetching disk security implementation effective parallel file approach protection caching multiprocessors synchronization algorithms processors database programs heterogeneous based improving
+Networking,networks control algorithm approach i/o evaluation new traffic exclusion mutual algorithms access measurement processors management feedback service multiprocessors high-speed atomic
+Computer Architecture-1,network dynamic shared efficient support virtual software parallel computing shared-memory run-time processing interface multiprocessors management architectural programs algorithms lightweight architectures
+Computer Architecture-2,file applications via behavior i/o fast processors based multiprocessors multicore fault secure recovery storage energy-efficient tolerance database editorial management algorithms
+Algorithms,special preface issue programming storage tolerance fault service algorithms management multiprocessors architectural editorial synchronization lightweight reliable power measurement large-scale mutual
+Computer Architecture-3,real-time multiprocessor objects support applications kernel management service atomic modeling storage algorithms architectures tolerance reliable multicast database editorial fault multiprocessors
+Software Engineering,design model evaluation continuous services formal replicated consistency methods hardware availability service atomic management simulation secure processors power multiprocessors speculative

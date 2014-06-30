@@ -1,31 +1,31 @@
 Topic,Top Terms
-Soft Computing,terms topic_id
-Machine Learning,terms topic_id
-Circuits and VLSI design,terms topic_id
-Multimedia,terms topic_id
-Robotics,terms topic_id
-Information Security,terms topic_id
-Multimedia-1,terms topic_id
-Numerical Methods,terms topic_id
-Machine Learning-1,terms topic_id
-Soft Computing-1,terms topic_id
-Soft Computing-2,terms topic_id
-Statistical Computing,terms topic_id
-Multimedia-2,terms topic_id
-Multimedia-3,terms topic_id
-Soft Computing-3,terms topic_id
-Circuits and VLSI design-1,terms topic_id
-Machine Learning-2,terms topic_id
-Robotics-1,terms topic_id
-Image Processing,terms topic_id
-Soft Computing-4,terms topic_id
-Social Issues and Practice,terms topic_id
-Social Issues and Practice-1,terms topic_id
-Software Engineering,terms topic_id
-Networking,terms topic_id
-Circuits and VLSI design-2,terms topic_id
-Machine Learning-3,terms topic_id
-Multimedia-4,terms topic_id
-Soft Computing-5,terms topic_id
-Robotics-2,terms topic_id
-Soft Computing-6,terms topic_id
+Soft Computing,rectifier boost new single-stage factor buck pfc input ac-dc output single-phase correction diode rectifiers flyback conduction reduced full-bridge low synchronous
+Machine Learning,speed sensorless range operation machine synchronous wide permanent-magnet flux zero low ipm machines excitation topologies development estimation rotor magnetic very
+Circuits and VLSI design,filter kalman integrated energy implementation harvesting extended performance devices aircraft management filters fully low-power piezoelectric high-performance detection sensors evaluation from
+Multimedia,predictive torque ripple direct switching model frequency reduction digital reference controlled dc-dc input technique matrix characteristics current-mode constant commutation source
+Robotics,electric linear modeling permanent-magnet actuator application brushless actuators vibration force driven vehicles development fault-tolerant dynamic driving hysteresis torque electromagnetic machine
+Information Security,networks sensor industrial network wireless remote distributed laboratory real-time intelligent monitoring digital smart mobile data detection automation image automatic communication
+Multimedia-1,sensorless estimation observer motors vector sliding-mode speed flux online position scheme synchronous rotor pmsm parameter identification without stator improved torque
+Numerical Methods,modulation inverters technique multilevel three-level strategy matrix harmonic switching new space-vector neutral-point-clamped distortion mitigation high-power carrier-based four-leg generalized neutral algorithm
+Machine Learning-1,synchronous permanent-magnet permanent machines magnet motors torque interior machine efficiency bearingless flux winding direct internal brushless model optimal inductance loss
+Soft Computing-1,robust fuzzy nonlinear neural compensation tracking sliding-mode networked feedback servo motion linear disturbance networks network friction disk application dynamic time
+Soft Computing-2,sliding sliding-mode mode sensorless observer reluctance switched disturbance motors state speed linear position generator unknown nonlinear robust via estimation second-order
+Statistical Computing,performance evaluation experimental noise comparison emi distribution suppression validation dc-dc between filter investigation comprehensive application study effect acoustic networked effects
+Multimedia-2,space vector study modulation multilevel scheme inverters comparative matrix strategy switching voltage-source schemes comparison evaluation decoupling five-phase high-power two-level predictive
+Multimedia-3,fed doubly strategy generator distributed matrix generation brushless single reactive generalized sensor microgrid source protection dc-link regulation reconstruction phase compensation
+Soft Computing-3,dc-dc resonant zvs bidirectional full-bridge isolated high-efficiency three-level dc/dc high boost soft-switching high-frequency step-up range half-bridge two rectifiers switching transformer
+Circuits and VLSI design-1,modeling experimental switched reluctance machine magnetic simulation linear verification approach validation universal force characterization models its thermal transfer analytical concept
+Machine Learning-2,high-speed machines permanent-magnet performance loss synchronous machine rotor losses temperature large thermal calculation considering generator generators impact stator fault-tolerant electromagnetic
+Robotics-1,robot motion fuzzy manipulators robotic flexible approach force recognition teleoperation haptic bilateral trajectory robust generation dynamics modeling sliding-mode manipulator visual
+Image Processing,wind energy photovoltaic generation grid tracking maximum point distributed conversion grid-connected turbines mppt generators storage turbine renewable stand-alone offshore solar
+Soft Computing-4,implementation mobile fuzzy fpga robot rfid digital passive robots algorithm controllers approach autonomous efficient fpga-based navigation robust logic localization decentralized
+Social Issues and Practice,electrical electronics industrial machines advanced introduction section approach technology review special modeling intelligent techniques use part general issues new state
+Social Issues and Practice-1,electronic ballast supply lamps resonant single-stage integrated lamp transformer fluorescent high factor high-power-factor implementation driving digital improved piezoelectric efficiency dimmable
+Software Engineering,model dynamic real-time modeling simulation fuel cell test identification automotive hardware-in-the-loop process development pem application industrial parameter fuel-cell implementation estimation
+Networking,multilevel cascaded topology capacitor balancing h-bridge multicell modular new reduced common-mode inverters five-level dc-link cells winding filter single-phase open-end diode-clamped
+Circuits and VLSI design-2,transfer energy display circuit contactless driver wireless panel plasma led planar inductive coupled recovery transformer backlight transmission capability magnetic high
+Machine Learning-3,fault detection diagnosis faults motors rotor stator approach monitoring machines bearing machine new automatic estimation application broken multiple identification through
+Multimedia-4,inverters single-phase grid-connected ups parallel operation photovoltaic scheme voltage-source resonant modules harmonic harmonics reduction robust line applied ac-ac impedance z-source
+Soft Computing-5,neural filter network optimization algorithm harmonic filters compensation genetic approach new fuzzy networks algorithms shunt particle swarm artificial nonlinear filtering
+Robotics-2,electric battery vehicle vehicles optimal charger energy management charge batteries storage application estimation technique traction charging intelligent plug-in lithium-ion state-of-charge
+Soft Computing-6,under unbalanced dynamic conditions grid loads loop performance frequency optimal fast operating dc-dc synchronization response grid-connected filter components stability operation

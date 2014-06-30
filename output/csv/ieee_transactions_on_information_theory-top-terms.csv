@@ -1,31 +1,31 @@
 Topic,Top Terms
-Algorithms,terms topic_id
-Discrete Structures,terms topic_id
-Telecommunications,terms topic_id
-Statistical Computing,terms topic_id
-Discrete Structures-1,terms topic_id
-Statistical Computing-1,terms topic_id
-Discrete Structures-2,terms topic_id
-Statistical Computing-2,terms topic_id
-Discrete Structures-3,terms topic_id
-Telecommunications-1,terms topic_id
-Discrete Structures-4,terms topic_id
-Multimedia,terms topic_id
-Numerical Methods,terms topic_id
-Statistical Computing-3,terms topic_id
-Machine Learning,terms topic_id
-Multimedia-1,terms topic_id
-Algorithms-1,terms topic_id
-Multimedia-2,terms topic_id
-Statistical Computing-4,terms topic_id
-Telecommunications-2,terms topic_id
-Information Security,terms topic_id
-Statistical Computing-5,terms topic_id
-Multimedia-3,terms topic_id
-Discrete Structures-5,terms topic_id
-Machine Learning-1,terms topic_id
-Metaheuristics,terms topic_id
-Telecommunications-3,terms topic_id
-Networking,terms topic_id
-Telecommunications-4,terms topic_id
-Telecommunications-5,terms topic_id
+Algorithms,quantum matrices application asymptotic classical graphs states communication correction applications number problem shannon entanglement its complex hermitian property covariance minimal
+Discrete Structures,ldpc parity-check low-density distance sets construction using quasi-cyclic algorithm erasure minimum turbo matrices iterative geometry propagation ensembles set permutation graphs
+Telecommunications,abstr thesis ph.d communication adaptive digital optical spectrum techniques signal tracking modulation robust patterns parameters performance processing transmission frequency detectors
+Statistical Computing,probability sequential asymptotic bound lower performance ratio likelihood tests parameter testing signal multiple observations processes point discrimination mean estimators robust
+Discrete Structures-1,algorithm finite complexity fields reed-solomon fast transform using period fourier generalized rings polynomials discrete polynomial computing synthesis transforms simple permutation
+Statistical Computing-1,markov finite memory testing theorem models entropy large hypothesis via processes approach fields hidden chains universal sources two-dimensional converse source
+Discrete Structures-2,bound weight self-dual length reed-muller covering upper extremal generalized distribution goppa cyclic order some radius group coset distance improved redundancy
+Statistical Computing-2,processes sampling signals time series distribution spectral stationary signal prediction band-limited function samples probability process frequency estimating expansion complex continuous-time
+Discrete Structures-3,convolutional distance bound upper rate minimum block some improved concatenated good probability encoders are trellis algorithm ldpc viterbi properties results
+Telecommunications-1,space-time modulation block diversity signal noncoherent coded design designs constellations orthogonal fading performance trellis mimo unitary space communication rayleigh-fading two
+Discrete Structures-4,cyclic some results minimum distance weight perfect ternary bch length covering two quadratic classes note three functions distribution weights certain
+Multimedia,sparse recovery via identification sensing compressed noisy limits programming blind signal approach signals using data representations dynamic order robust orthogonal
+Numerical Methods,entropy maximum comments spectral method functions function factor two-dimensional minimum geometric principle constrained approach partition use properties mean-square computation reply
+Statistical Computing-3,entropy probability distributions discrete power under complementary inequalities uncertainty constraint characterization inequality proof sum numbers case constraints mutual input minimum
+Machine Learning,quantization vector quantizers design multiple performance scalar lattice quantizer sources distortion description uniform filter source index asymptotic theory measures memoryless
+Multimedia-1,signals optimum interference signal digital additive intersymbol design performance coherent probability radar transmission phase presence filters ary known detector adaptive
+Algorithms-1,theory review communication methods statistical application introduction approach processes communications special processing applications differential computation stochastic analog data issue inference
+Multimedia-2,data universal compression algorithm source sequential prediction lossy sources individual lossless algorithms adaptive efficient pattern encoding infinite learning schemes using
+Statistical Computing-4,source sources encoding rate-distortion distortion function criterion rate fidelity universal block side theorems stationary reliability length general memoryless variable-length markov
+Telecommunications-2,interference broadcast feedback multiple-access region discrete mimo memoryless multiple freedom degrees arbitrarily varying access secrecy class messages alignment degraded state
+Information Security,functions algebraic key construction boolean error-correcting constructions secure symmetric based authentication attacks security efficient nonlinear scheme bent using cryptographic balanced
+Statistical Computing-5,theory between its problem applications generalized problems some measures statistical entropy complexity secret general two sharing theorem duality probability relation
+Multimedia-3,processes nonlinear filtering stochastic signals wavelet transform adaptive stationary nonstationary system signal output function convergence approximation inputs poisson functions non-gaussian
+Discrete Structures-5,correlation correcting errors sets properties sequence class construction constructions low autocorrelation families orthogonal correction difference family single asymmetric cyclic large
+Machine Learning-1,convergence classification nonparametric selection pattern neighbor using nearest learning properties rules model conditions decision regression stochastic class sufficient function approximation
+Metaheuristics,block algorithms complexity algorithm efficient generalized convolutional trellis maximum soft-decision unequal memory reed-solomon correction using construction lattice constrained protection error-correcting
+Telecommunications-3,cdma multiuser fading wireless mimo relay tradeoff cooperative multiple-access large asynchronous receivers interference diversity power asymptotic performance communication diversity-multiplexing allocation
+Networking,network wireless delay communication access control multicast throughput packet algorithms scheduling scaling sensor under approach multiple tree resolution constraints hoc
+Telecommunications-4,feedback fading distributed mimo correlated joint transmission schemes side broadcast source-channel performance multiple-access source presence state noisy communication how relay
+Telecommunications-5,rate achievable feedback interference region multiple broadcast rates bound source relay successive decision allocation multiple-access upper erasure fading access loss

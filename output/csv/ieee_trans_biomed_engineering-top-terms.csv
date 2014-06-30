@@ -1,31 +1,31 @@
 Topic,Top Terms
-Soft Computing,terms topic_id
-Multimedia,terms topic_id
-Algorithms,terms topic_id
-Medical Computing,terms topic_id
-Sensor Networks,terms topic_id
-Natural Language Processing,terms topic_id
-Medical Computing-1,terms topic_id
-Multimedia-1,terms topic_id
-Soft Computing-1,terms topic_id
-Medical Computing-2,terms topic_id
-Bioinformatics,terms topic_id
-Circuits and VLSI design,terms topic_id
-Circuits and VLSI design-1,terms topic_id
-Multimedia-2,terms topic_id
-Human Computer Interaction,terms topic_id
-Image Processing,terms topic_id
-Bioinformatics-1,terms topic_id
-Robotics,terms topic_id
-Robotics-1,terms topic_id
-Information Retrieval,terms topic_id
-Multimedia-3,terms topic_id
-Soft Computing-2,terms topic_id
-Image Processing-1,terms topic_id
-Medical Computing-3,terms topic_id
-Robotics-2,terms topic_id
-Image Processing-2,terms topic_id
-Medical Computing-4,terms topic_id
-Medical Computing-5,terms topic_id
-Medical Computing-6,terms topic_id
-Medical Computing-7,terms topic_id
+Soft Computing,pressure blood flow pulse arterial intracranial assessment noninvasive peripheral cardiovascular measurement between continuous dynamic wave stiffness waveform dynamics conductance catheter
+Multimedia,source separation localization blind signal brain reconstruction meg sparse representation bayesian performance data extraction spatio-temporal estimating sources electrocardiogram dipole applied
+Algorithms,inverse computational problem special forward multiscale editorial realistic bidomain challenges efficient simulation localization medicine issue solution engineering electrocardiography problems simulations
+Medical Computing,breast cancer vivo impedance tissue optical microwave spectroscopy dynamic cell tumor fluorescence liver computer-aided characterization small lung diagnosis confocal measurement
+Sensor Networks,atrial fibrillation ventricular ecg myocardial mapping new electrograms repolarization changes ischemia characterization noninvasive propagation myocardium dispersion pacing complex activation interval
+Natural Language Processing,vector automatic support new learning high-speed speech evaluation parameters assessment image distortion machine voice depression surfaces digital toward vocal machines
+Medical Computing-1,optical measurement coherence properties tomography element mechanical knee bone tissue finite blood arteries joint characterization assessment under thickness oxygen effects
+Multimedia-1,filtering artifact optimal methods motion kalman mapping identification recordings adaptive noise filter multichannel data correction extended removal linear reduction via
+Soft Computing-1,impedance measurements tomography nonlinear techniques noninvasive cochlear identification linear comparison speech between implants direct dynamic biological induction relationship strategy reconstruction
+Medical Computing-2,design ultrasound experimental microwave thermal therapy breast coil results tissue 3-d preliminary numerical mri heating ablation transcranial antenna treatment hyperthermia
+Bioinformatics,reconstruction tomography three-dimensional 3-d image data algorithm novel medical parameters spine regularization optimization quantitative fluorescence deconvolution new identification impedance molecular
+Circuits and VLSI design,potential electric cell action induced cells fields field muscle biological membrane nerve potentials excitation current simulation ratio high-frequency low myocytes
+Circuits and VLSI design-1,wireless evaluation design implantable development sensor device devices novel medical capsule monitoring energy interface endoscopy power applications performance sensing transmission
+Multimedia-2,component data independent decomposition frequency reduction resonance fmri correlation algorithm principal removal interference noise wavelet statistical empirical electroencephalography response components
+Human Computer Interaction,brain dynamic interface applications gait interfaces phase design knee brain-computer injury optimization responses online brain-machine unsupervised discrimination clinical synchronization multiscale
+Image Processing,segmentation automatic retinal mri automated image registration brain 3-d tracking sequences features via texture vascular extraction quantification data resonance active
+Bioinformatics-1,ablation between interaction implant cochlear skin evoked tumor simulation rat adaptation predicting investigation effect coupling different potentials cortex finite-element care
+Robotics,surface emg muscle motor conduction movements unit dynamic force myoelectric velocity activity volume signal body contractions arm fatigue measuring kinematics
+Robotics-1,surgery needle motion surgical ultrasound registration invasive real-time minimally navigation robotic simulation prostate image 3-d planning robot guidance training force
+Information Retrieval,spatial bci brain-computer selection single-trial patterns potentials adaptive temporal interface filters visual extraction feature event-related common line matching power spatiotemporal
+Multimedia-3,ecg wavelet compression transform signal algorithm adaptive nonlinear wavelet-based data bayesian filter enhancement process sounds filtering biomedical heartbeat framework spike
+Soft Computing-2,heart rate variability respiratory sleep entropy nonlinear time-frequency apnea time-varying cardiovascular pulse time series spectral dynamics data obstructive parameters effects
+Image Processing-1,effect electrode current tissue head conductivity density brain finite impedance 3-d geometry measurement myocardial distribution shape sensitivity surface field element
+Medical Computing-3,glucose time stochastic effects insulin accuracy diabetes improving blood series closed-loop through effect cell monitoring diabetic concentration nerve comparison predicting
+Robotics-2,monitoring sensor disease movement activity assessment tracking wearable eye novel sensors ambulatory parkinsons walking physical gait remote postural subjects center
+Image Processing-2,epileptic recognition recordings seizure myoelectric prediction seizures pattern neural network sleep motion patients automatic epilepsy neonatal video hidden activity model-based
+Medical Computing-4,neural recording microelectrode electrodes array multichannel integrated nerve electrode arrays neuronal neurons recordings implantable probe implanted fiber cuff prosthesis signal
+Medical Computing-5,tissue drug effects delivery coupling temperature applications device communication mhz vivo characterization electrode brain body early eye electroporation quantification impedance
+Medical Computing-6,heart laser fetal rate signal processing doppler monitoring real-time technique flow blood ultrasound adaptive ecg automated variability phase abdominal perfusion
+Medical Computing-7,neural network networks function cortical functional gene information dynamics activity multiple artificial connectivity its means coherence movements data multiscale evoked

@@ -1,29 +1,29 @@
 Topic,Top Terms
-Algorithms,terms topic_id
-Computer Architecture,terms topic_id
-Discrete Structures,terms topic_id
-Computer Architecture-1,terms topic_id
-Optimization,terms topic_id
-Computer Architecture-2,terms topic_id
-Platform-based Development,terms topic_id
-Algorithms-1,terms topic_id
-Statistical Computing,terms topic_id
-Computer Architecture-3,terms topic_id
-Networking,terms topic_id
-Embedded Systems,terms topic_id
-Platform-based Development-1,terms topic_id
-Embedded Systems-1,terms topic_id
-Networking-1,terms topic_id
-Metaheuristics,terms topic_id
-Platform-based Development-2,terms topic_id
-Networking-2,terms topic_id
-Networking-3,terms topic_id
-Computer Architecture-4,terms topic_id
-Networking-4,terms topic_id
-Telecommunications,terms topic_id
-Computer Architecture-5,terms topic_id
-Computer Architecture-6,terms topic_id
-Networking-5,terms topic_id
-Computer Architecture-7,terms topic_id
-Information Security,terms topic_id
-Platform-based Development-3,terms topic_id
+Algorithms,editors cache editorial special introduction guest section sequence notice coherence sharing verification cmp cycle high-performance localization issue architectures dependable biological
+Computer Architecture,network evaluation hypercube applications hierarchical interconnection architecture computers architectures i/o massively improved measurement case workloads study reduction social torus optical
+Discrete Structures,hypercubes embedding trees graphs meshes broadcast faulty binary properties paths cycles spanning path complete all-to-all nodes systolic join star cubes
+Computer Architecture-1,synchronization fault fault-tolerant framework architecture tolerance tolerant asynchronous reliable computer multiprocessor delay high-performance randomized clock low-cost designing large protocols processor
+Optimization,multihop grid selection throughput switching smart job optical via interconnects communications multiple wdm limited framework broadcasting antennas directional optimization cost
+Computer Architecture-2,processor task graphs mapping multiprocessors partitioning multiprocessor generalized applications arrays loop techniques redistribution assignment architectures parallelizing models programs loops heterogeneous
+Platform-based Development,streaming network peer-to-peer multicast distribution content p2p overlay service applications optimization caching architecture cooperative bandwidth traffic services media coding video
+Algorithms-1,peer-to-peer unstructured search computers placement dissemination mechanism grids simd product overlay topologies regular evaluating survey tree replica network their latency
+Statistical Computing,checkpointing evaluation time model load energy simulation coverage under balancing strategy grids characterization network modeling web cost analytical random replication
+Computer Architecture-3,model multicast minimum broadcast node messages global connected extended multiprocessor implementation under reliability computation dominating sets bound broadcasting diagnosis geometric
+Networking,real-time control management clusters resource large-scale qos server web multimedia monitoring heterogeneous servers embedded fair traffic jobs provisioning end-to-end over
+Embedded Systems,framework real-time task tasks multicore programming decomposition architectures models irregular software processing unified energy-efficient programs locality computations static compiler detecting
+Platform-based Development-1,storage cloud secure search access privacy probabilistic peer-to-peer internet sharing authentication queries policies anonymous security exploiting trust vehicular enabling improve
+Embedded Systems-1,time execution from optimizing prefetching programs parallelization heterogeneous loops automatic logic space dependence minimizing response impact reduction programming speculative method
+Networking-1,protocol network multicast information tree modeling rfid divisible scheme aggregation ieee secure complexity optimization linear low note enhanced tracking propagation
+Metaheuristics,problem mutual exclusion access fast control group solution consensus petri channel simple program delay stochastic parallelization quorum-based quorum surveillance databases
+Platform-based Development-2,resource shared virtual service environments collection services online collaborative network optimization platforms state sharing discovery scaling consistent recovery adaptive grid
+Networking-2,hoc protocol topology protocols control energy-efficient localized clustering reliability construction adaptive event broadcasting radio energy mpi power reliable method structure
+Networking-3,attacks high k-ary under constraints n-cube multiple new detection graph degree family model bandwidth ddos constant centers congestion conditional wormhole
+Computer Architecture-4,reconfigurable matrix processor array fast sorting bus pipelined multiplication linear computations problems multiple mesh solving architecture processors computer hypercube new
+Networking-4,interconnection multistage detection class implementation novel message matching mobility its fault-tolerant location exchange deadlock access embedded scheme resource application mesh
+Telecommunications,processing based scheme implementation disk arrays linear codes storage structures block environment perfect issues handling hybrid failure deployment real array
+Computer Architecture-5,load balancing file adaptive management p2p strategies runtime replication consistency sharing buffer structured aware schemes applications effective methods cluster-based maintenance
+Computer Architecture-6,multiprocessors simulation large-scale application cache estimation adaptive online shared-memory scheme large chip network coherence power contention cluster generation parallelism its
+Networking-5,adaptive fault-tolerant deadlock-free mesh multicomputers wormhole meshes scheme theory multicast workstations torus channels wormhole-routed hypercube how reconfiguration virtual multicomputer fully
+Computer Architecture-7,multiprocessor detection flow asynchronous localization evaluation machines synchronous control environments iterative improving shared-memory hardware multithreaded transactional mechanism consistency simulated applications
+Information Security,network note computation graph processors key star interconnection based schemes cube robust traffic agreement reducing presence faults coding failures instruction
+Platform-based Development-3,technique model packet new toward practical novel applications deterministic highly distribution hybrid election leader cloud queuing application self-stabilizing uniform folded

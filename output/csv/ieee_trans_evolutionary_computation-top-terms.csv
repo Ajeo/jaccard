@@ -1,30 +1,30 @@
 Topic,Top Terms
-Embedded Systems,terms topic_id
-Machine Learning,terms topic_id
-Metaheuristics,terms topic_id
-Algorithms,terms topic_id
-Logic and Inference,terms topic_id
-Optimization,terms topic_id
-Metaheuristics-1,terms topic_id
-Metaheuristics-2,terms topic_id
-Statistical Computing,terms topic_id
-Machine Learning-1,terms topic_id
-Metaheuristics-3,terms topic_id
-Soft Computing,terms topic_id
-Machine Learning-2,terms topic_id
-Metaheuristics-4,terms topic_id
-Metaheuristics-5,terms topic_id
-Metaheuristics-6,terms topic_id
-Machine Learning-3,terms topic_id
-Human Computer Interaction,terms topic_id
-Soft Computing-1,terms topic_id
-Machine Learning-4,terms topic_id
-Metaheuristics-7,terms topic_id
-Statistical Computing-1,terms topic_id
-Telecommunications,terms topic_id
-Algorithms-1,terms topic_id
-Numerical Methods,terms topic_id
-Algorithms-2,terms topic_id
-Image Processing,terms topic_id
-Metaheuristics-8,terms topic_id
-Metaheuristics-9,terms topic_id
+Embedded Systems,techniques language encoding framework statistical intelligence natural general processing computer swarm artificial games programs solving without technique computing interactive exploration
+Machine Learning,method nonlinear multiple novel mutations applying graph-based least parallel routing interactive many-objective reduction operators multiagent function sequence vlsi technique dynamical
+Metaheuristics,from hardware evolvable improved probabilistic blind optimizer proceedings parallel population-based implementation agent-based fast conference operators chemical trees routing images large
+Algorithms,swarm computation particle modeling power applications survey global through without solution between state interactive large solving proceedings segmentation operators process
+Logic and Inference,fitness cellular coevolution landscapes automata dna ensembles classification sharing evolved sequence computing parallel implementation operators programs markov games generalization fast
+Optimization,particle swarm objectives multimodal multiple handling tracking effective optima traffic optimal control program function routing multiagent large interactive games without
+Metaheuristics-1,selection scheme resource efficient management allocation solution many-objective solving games computing operators programs reduction grammatical real-valued binary interactive fast population-based
+Metaheuristics-2,automatic cooperative robot neural mobile environment via application segmentation games fast colony operators hypervolume programs technique routing function bacterial heuristic
+Statistical Computing,distribution estimation application model time its simple regularity computational variable electrical process routing bacterial agent-based convergence function markov segmentation decision
+Machine Learning-1,design approach network structure generation bayesian applied algorithm-based strategies efficient vector random solving capacitated operators computing real-coded games dynamical agent-based
+Metaheuristics-3,scheduling design multi-objective job shop representations project resource-constrained review operators interactive balance technique between heuristic solving real-coded process computing routing
+Soft Computing,particle swarm convergence complex stochastic stability discrete robots dynamics optimizer combinatorial without chemical interactive large dynamical hierarchical technique programs grammatical
+Machine Learning-2,clustering pattern environments case performance distributed detection optimizer support electrical generalization real-coded population-based incremental grammatical computing technique review regularity fast
+Metaheuristics-4,fitness functions landscape populations dynamics distance solutions approximation global assignment function efficient routing combinatorial markov state exploration binary interactive chemical
+Metaheuristics-5,models complexity linear pareto operator continuous knowledge regression orthogonal from many-objective markov reduction parallel bacterial routing computing hypervolume implementation population-based
+Metaheuristics-6,planning simulated comparison neural test fuzzy network annealing large-scale data review function assignment operators coding fast programs implementation heuristic games
+Machine Learning-3,data mining discovery that population-based reduction parallel routing binary capacitated knowledge real-valued games neighborhood vlsi fast combinatorial chemical balance incremental
+Human Computer Interaction,system design artificial immune space computer selection applications feature exploration dynamical heuristic process its chemical interactive computing technique games applied
+Soft Computing-1,differential control constraint numerical modeling global parameters adaptation comparative program solving without dynamical population-based operators binary neighborhood technique state markov
+Machine Learning-4,coevolutionary model market fuzzy decision hierarchical financial support least multiagent intelligence vector mining process many-objective trees games interactive assignment operators
+Metaheuristics-7,approach image new classifiers ensemble self-adaptive free feature optimal agent-based segmentation neighborhood solving computing routing games capacitated interactive heuristic multiagent
+Statistical Computing-1,strategies dilemma iterated prisoners game random correlation approaches spatial incremental markov games heuristic images function regularity diversity binary population-based operators
+Telecommunications,new colony mutation population diversity strategy crossover effects engineering method combining searching selection improving operators binary vlsi exploration spatial real-valued
+Algorithms-1,editorial guest special issue developmental models computation agent-based colony markov interactive knowledge operators parallel spatial population-based proceedings modeling solving computing
+Numerical Methods,performance methods xcs parameter toward classifier order variable generalization large improving function images review solving computing fast regularity interactive hypervolume
+Algorithms-2,computational autonomous development agents artificial approaches survey dynamical between bacterial implementation solving games grammatical operators combinatorial fast many-objective neighborhood balance
+Image Processing,robust circuits synthesis means analog functions automated filter approach automatic electrical complexity computing fast parallel images assignment implementation agent-based segmentation
+Metaheuristics-8,tree spanning class minimum heuristics representation conference filter automated novel synthesis proceedings through representations coding trees computing grammatical combinatorial technique
+Metaheuristics-9,classification gene rules compact expression metaheuristics programs real-valued solving vlsi operators routing review grammatical computing fast hypervolume heuristic games spatial

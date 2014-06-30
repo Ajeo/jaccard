@@ -1,29 +1,29 @@
 Topic,Top Terms
-Information Retrieval,terms topic_id
-Computer Architecture,terms topic_id
-Embedded Systems,terms topic_id
-Metaheuristics,terms topic_id
-Metaheuristics-1,terms topic_id
-Software Engineering,terms topic_id
-Software Engineering-1,terms topic_id
-Software Engineering-2,terms topic_id
-Platform-based Development,terms topic_id
-Information Retrieval-1,terms topic_id
-Embedded Systems-1,terms topic_id
-Numerical Methods,terms topic_id
-Embedded Systems-2,terms topic_id
-Statistical Computing,terms topic_id
-Information Security,terms topic_id
-Software Engineering-3,terms topic_id
-Bioinformatics,terms topic_id
-Optimization,terms topic_id
-Algorithms,terms topic_id
-Optimization-1,terms topic_id
-Soft Computing,terms topic_id
-Information Security-1,terms topic_id
-Bioinformatics-1,terms topic_id
-Platform-based Development-1,terms topic_id
-Statistical Computing-1,terms topic_id
-Software Engineering-4,terms topic_id
-Human Computer Interaction,terms topic_id
-Information Retrieval-2,terms topic_id
+Information Retrieval,information knowledge representation flow interactive understanding mining compiler visual toward developing storage improve techniques basis code task user analyzing correction
+Computer Architecture,memory algorithms control efficient process virtual dynamic verification parallel statistical flow computer allocation methods inference measurement comparison shared multiprocessor simulation
+Embedded Systems,test generation case automatic modular constructing cases reduction measure automated role generating prioritization integration what use coverage gui suites suite
+Metaheuristics,computer networks random new cycle partition optimizing structured managing distribution life functions problems time via local processors communication project management
+Metaheuristics-1,from specifications requirements search synthesis graphs applications checking parallel derivation graph scenarios hierarchical computation correct trees linear algorithm binary computational
+Software Engineering,evaluation fault techniques test empirical selection criteria complex path mutation dependability detection methods requirements experimental improving quantitative sets technique recovery
+Software Engineering-1,languages abstract domain semantics from into transformation supporting implementation domain-specific errors specifications type toward product tools production compilation defining visual
+Software Engineering-2,quality empirical validation study metrics measurement measures between framework object-oriented measuring productivity requirements function complexity how evaluating process survey code
+Platform-based Development,file network dynamic operating environments management environment computing concurrent pascal local csp information based considerations reference resource extending neural heterogeneous
+Information Retrieval-1,detection ada algorithm efficient deadlock towards error procedure module automatic large proof remote resolution deadlocks call variables invariants foundations comparison
+Embedded Systems-1,petri nets stochastic net time timed verification generalized high-level simulation concurrent evaluation parallel characterization discrete representation method some fluid discrete-event
+Numerical Methods,problem networks queueing structure general approximate class network decomposition blocking control rule-based throughput extension value method solving queue servers assignment
+Embedded Systems-2,communication verification protocols access debugging tool support control embedded automatic properties abstractions verifying java checking diagrams interactive security state transition
+Statistical Computing,estimation object-oriented effort prediction inspection class size method learning estimating defect bayesian metrics cost maintenance pattern effect versus matching network
+Information Security,components use scheme handling based set method structured empirical exception knowledge-based study reusable theoretical practical working theorem improved errors over
+Software Engineering-3,study case reuse process requirements empirical industrial impact fault-tolerant views version failure mechanism strategies concept issues success improvement alternatives field
+Bioinformatics,code applications source changes refactoring web effects reasoning dynamic from actions about finding assurance identifying change rule predicting evaluating evolving
+Optimization,scheduling execution concurrent processes time tasks times analyzing multilevel multiprocessor release policies hard prolog input resource relations monitors abstraction sharing
+Algorithms,guest editors editorial special section conference international issue maintenance evolution issues from exception handling privacy papers symposium trends evaluation computer
+Optimization-1,optimal multiple load cost assessment processor algorithm through correction balancing time estimation dependent combining execution expert uncertainty classes how within
+Soft Computing,control concurrency state technique machines symbolic through algorithms files slicing databases communicating journal proving loop operations editor hybrid structures based
+Information Security-1,its application protocol method implementation verification recovery objects requirements architectures based security secure monitoring new grammars unified automated databases statistical
+Bioinformatics-1,comments object complexity object-oriented code number metrics structural faults evolution behavior large detecting static predicting property restructuring response inheritance oriented
+Platform-based Development-1,applications framework architecture environment management service support mobile computing project services middleware dynamic evaluation methodology processes its level message process
+Statistical Computing-1,systematic maintenance experiment functional comparing review controlled experiments modules investigation empirical assessing studies comprehension experimental through documentation strategies note estimating
+Software Engineering-4,methodology some experience incremental component protocols implementing critical comments support algorithms that automated locking transaction integration refinement schema directed processing
+Human Computer Interaction,methods application timing comparison logic concurrent prototyping tool specifying interfaces web user temporal executable rapid theory experience interface graphical validating
+Information Retrieval-2,processing relational parallel environment queries structures databases optimization algebra query construction languages extended partitioning image evaluation compiler environments fortran across

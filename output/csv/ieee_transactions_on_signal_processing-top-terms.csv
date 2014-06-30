@@ -1,31 +1,31 @@
 Topic,Top Terms
-Multimedia,terms topic_id
-Computer Architecture,terms topic_id
-Telecommunications,terms topic_id
-Telecommunications-1,terms topic_id
-Telecommunications-2,terms topic_id
-Telecommunications-3,terms topic_id
-Soft Computing,terms topic_id
-Networking,terms topic_id
-Numerical Methods,terms topic_id
-Soft Computing-1,terms topic_id
-Multimedia-1,terms topic_id
-Sensor Networks,terms topic_id
-Multimedia-2,terms topic_id
-Telecommunications-4,terms topic_id
-Statistical Computing,terms topic_id
-Statistical Computing-1,terms topic_id
-Telecommunications-5,terms topic_id
-Sensor Networks-1,terms topic_id
-Numerical Methods-1,terms topic_id
-Statistical Computing-2,terms topic_id
-Multimedia-3,terms topic_id
-Multimedia-4,terms topic_id
-Telecommunications-6,terms topic_id
-Numerical Methods-2,terms topic_id
-Telecommunications-7,terms topic_id
-Multimedia-5,terms topic_id
-Statistical Computing-3,terms topic_id
-Statistical Computing-4,terms topic_id
-Telecommunications-8,terms topic_id
-Sensor Networks-2,terms topic_id
+Multimedia,wavelet coding wavelets image transforms quantization discrete biorthogonal bases compression orthonormal vector application orthogonal functions denoising theory multiresolution new complex
+Computer Architecture,efficient implementation architecture digital parallel architectures array vlsi 2-d systolic rls unified pipelined memory recursive finite dsp discrete effects computation
+Telecommunications,relay wireless information coding power distributed cooperative state beamforming allocation amplify-and-forward communication joint multiple communications relaying selection space-time optimized two-way
+Telecommunications-1,time-frequency distribution distributions frequency spectral instantaneous function representations quadratic from kernel kernels representation spectrum application wigner functions properties power discrete
+Telecommunications-2,frequency phase ofdm offset carrier bounds estimators estimator under high amplitude snr joint polynomial complex timing uncertainty bound modulated estimates
+Telecommunications-3,feedback beamforming interference arrays constrained vector antenna broadband beamformer correlated presence precoding spatial transmit multiple alignment limited iterative lattice robustness
+Soft Computing,filtering efficient method new identification fir application fast iir polynomial system its applications time-varying nonlinear class wiener novel stochastic processing
+Networking,distributed filtering random sensor data over consensus deterministic diffusion multiple wireless quantization under particle communication control time-varying state study kalman
+Numerical Methods,matrix matrices covariance generalized complex decomposition singular symmetric theory toeplitz spectral applications two-dimensional factorization value sample asymptotic eigenvalues perturbation random
+Soft Computing-1,banks fir digital iir reconstruction perfect linear-phase filterbanks phase paraunitary complex delay multirate 2-d two-dimensional oversampled method least-squares stability bank
+Multimedia-1,comments minimum constant modulus filtering reply decomposition spectral variance threshold array processing error method bounds constrained variable output inverse stack
+Sensor Networks,sensor wireless distributed localization sequential via tracking network energy target fusion efficient selection decentralized data sensors cooperative measurements source binary
+Multimedia-2,least squares filtering recursive fast weighted convergence mean problems square nonlinear fir lattice error constrained least-squares median multichannel total equations
+Telecommunications-4,equalization feedback equalizers decision minimum error transceivers equalizer fir multichannel mmse information fractionally second-order redundancy modulation spaced identification frequency-domain precoders
+Statistical Computing,order identification higher statistics model system arma autoregressive phase selection models non-gaussian carlo parameter monte method methods sequential fir cumulant
+Statistical Computing-1,lms error stochastic nonlinear convergence rate results data two sampling behavior bayesian comparison gaussian transient statistical size identification new finite
+Telecommunications-5,optimization beamforming power multiuser allocation downlink interference rate joint cognitive constraints relay feedback ofdma resource transceiver precoding spectrum maximization control
+Sensor Networks-1,array arrays processing direction sources localization doa source finding spatial sensor correlated direction-of-arrival presence multiple number unknown wideband techniques method
+Numerical Methods-1,from sampling data reconstruction noisy samples interpolation sampled nonuniform measurements fourier bandlimited phase image spectral theorem approximation restoration spaces methods
+Statistical Computing-2,processes gaussian random time stationary models series correlation complex nonlinear generalized fields conditions stochastic tests variance nonstationary theory parameter fractional
+Multimedia-3,subspace tracking fast frequency neural harmonic domain response impulse method retrieval kalman network filtering weighted identification spectral matched improved prediction
+Multimedia-4,sparse via recovery optimization deconvolution approximation bayesian ofdm learning convex pursuit vector reduction basis matching training iterative representation matrix reconstruction
+Telecommunications-6,interference cancellation communications echo acoustic generalized digital application cdma optimum multiuser improved suppression watermarking mitigation receiver sidelobe new subband nonlinear
+Numerical Methods-2,discrete fast fourier transforms computation fractional gabor cosine generalized wavelet efficient dct multidimensional periodic window hartley computing sequences its fft
+Telecommunications-7,space-time codes fading block decoding multiuser equalization over ofdm cdma diversity low-complexity selective ds-cdma multipath joint coded receivers orthogonal receiver
+Multimedia-5,separation source sources joint independent gaussian component mixtures canonical statistics second-order mixture underdetermined diagonalization mixed convolutive partial localization model extraction
+Statistical Computing-3,models markov model hidden bayesian recognition speech modeling learning classification application neural statistical smoothing time filtering nonlinear dynamic network applications
+Statistical Computing-4,maximum likelihood time delay parameters bounds entropy multipath unknown estimator parameter ratio approximate new multiple known test case estimating asymptotic
+Telecommunications-8,sensing spectrum bound bounds compressed radio cognitive compressive cramer-rao r-rao lower sampling cyclic wideband frequency bayesian theory multiband part uwb
+Sensor Networks-2,radar tracking multiple target targets properties waveform processing clutter statistical modeling moving information applications particle resolution localization methods criteria via

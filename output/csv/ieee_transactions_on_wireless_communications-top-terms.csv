@@ -1,31 +1,31 @@
 Topic,Top Terms
-Telecommunications,terms topic_id
-Telecommunications-1,terms topic_id
-Telecommunications-2,terms topic_id
-Telecommunications-3,terms topic_id
-Telecommunications-4,terms topic_id
-Telecommunications-5,terms topic_id
-Networking,terms topic_id
-Telecommunications-6,terms topic_id
-Networking-1,terms topic_id
-Telecommunications-7,terms topic_id
-Information Security,terms topic_id
-Networking-2,terms topic_id
-Networking-3,terms topic_id
-Telecommunications-8,terms topic_id
-Networking-4,terms topic_id
-Telecommunications-9,terms topic_id
-Telecommunications-10,terms topic_id
-Metaheuristics,terms topic_id
-Optimization,terms topic_id
-Networking-5,terms topic_id
-Telecommunications-11,terms topic_id
-Telecommunications-12,terms topic_id
-Networking-6,terms topic_id
-Telecommunications-13,terms topic_id
-Telecommunications-14,terms topic_id
-Telecommunications-15,terms topic_id
-Bioinformatics,terms topic_id
-Telecommunications-16,terms topic_id
-Sensor Networks,terms topic_id
-Statistical Computing,terms topic_id
+Telecommunications,resource cellular scheduling ofdma downlink uplink heterogeneous user joint dynamic fair network cell frequency two-tier femtocell management lte system subcarrier
+Telecommunications-1,space-time codes block coding coded differential trellis orthogonal modulation code transmit linear quasi-orthogonal antennas correlated time space-frequency decoding unitary new
+Telecommunications-2,antenna multiple using antennas transmit selection adaptive ds-cdma schemes system spectral receive suppression efficiency arrays downlink beamforming methods comparison narrowband
+Telecommunications-3,selection information antenna feedback beamforming state transmit imperfect optimization partial under rate transmitter csi correlated joint amplify-and-forward robust knowledge receive
+Telecommunications-4,frequency carrier offset uplink joint selective domain equalization compensation ofdma synchronization iterative offsets single presence receiver phase i/q imbalance scheme
+Telecommunications-5,relaying network coding amplify-and-forward two-way relays decode-and-forward selection multiple communication cooperation transmission strategies multi-hop opportunistic dual-hop multihop multi-user achieving optimal
+Networking,sensor energy efficiency data network coding bandwidth transmission impact efficient cooperation under decentralized random packet message optimal strategies energy-efficient transmissions
+Telecommunications-6,spatial tradeoff correlation multiplexing precoding beamforming mimo-ofdm csi effect precoder between diversity-multiplexing transmission multiple co-channel partial presence impact multi-antenna effects
+Networking-1,ieee 802.11 mac protocol throughput hoc qos mesh delay multi-channel fairness lans multi-hop mechanism service wlans scheduling hybrid multi-rate modeling
+Telecommunications-7,feedback beamforming downlink multiuser limited adaptive multi-cell transmission multi-user broadcast scheduling rate joint ofdma precoding system multi-antenna miso maximization multicell
+Information Security,mobile authentication hoc secure forward protocol multi-hop protocols communications jamming key tree security rfid large-scale transmissions improving practical amplify communication
+Networking-2,rate adaptation link arq adaptive data layer packet scheduling throughput optimization joint high using links communication multi-user communications hybrid approach
+Networking-3,traffic scheme transmission resource packet admission cellular cdma optimal scheduling multimedia management call data network video downlink adaptive heterogeneous mobile
+Telecommunications-8,multiuser linear cdma cancellation system receivers precoding successive application communications parallel downlink multi-user optimal blind detector technique its transactions versus
+Networking-4,energy sensor optimal protocol efficient routing hoc harvesting multi-hop energy-efficient mobile joint scheduling delay nodes optimization transmission underwater efficiency communication
+Telecommunications-9,complexity decoding iterative low turbo algorithm codes equalization coded decision space-time multiuser feedback using soft reduced low-complexity joint aided ldpc
+Telecommunications-10,capacity transmission broadcast user opportunistic optimal achievable scheduling spectrum multiple multiuser primary sharing relaying users schemes rates constraints scaling selective
+Metaheuristics,efficient algorithm scheme novel selection algorithms generalized method receivers combining ofdm-based fast theory practical v-blast adaptive implementation architectures scheduling minimum
+Optimization,spectrum sensing dynamic sharing game radios approach using opportunistic joint under primary signal model noise via theoretic learning underlay user
+Networking-5,communication cdma evaluation mobile communications capacity wideband area modeling distribution under local spread environments using range fast mobility doppler multicarrier
+Telecommunications-11,uwb communications synchronization multipath impulse ultra-wideband acquisition timing receiver receivers mitigation pulse multiple symbol gaussian improved maximum asynchronous transmitted band
+Telecommunications-12,error probability outage combining rate exact presence average bit using nakagami-m rayleigh closed-form selection ber relaying accurate nakagami approximation decode-and-forward
+Networking-6,sensor sensing approach spectrum maximization opportunistic random cross-layer delay network framework collaborative aloha large routing slotted lifetime reception fusion limits
+Telecommunications-13,modulation using coding scheme coded adaptive code receiver error space binary schemes phase transmitter symbol rateless division time optimal codes
+Telecommunications-14,receiver adaptive space-time multiuser blind cdma single-carrier equalization receivers iterative time-varying multipath asynchronous transmission ds-cdma coded frequency-selective modulation block noncoherent
+Telecommunications-15,capacity rayleigh correlated asymptotic optimal bounds under bound snr ergodic ricean multiple statistics flat spatially adaptive information upper independent constraint
+Bioinformatics,training codes optimal approach sequences pilot spreading sequence optimized designs complex factor from strategy mimo-ofdm orthogonal assignment matrix asymmetric peak
+Telecommunications-16,cellular cdma capacity system handoff base station soft uplink link using models algorithms umts effect improvement dynamic algorithm mobile antennas
+Sensor Networks,indoor mobile model localization modeling sensor measurements using system environments algorithm location communication wideband novel satellite stochastic environment signals propagation
+Statistical Computing,signals noise combining ratio model maximum reduction results method new signal phase application likelihood analytical evaluation gains generalized distributions binary

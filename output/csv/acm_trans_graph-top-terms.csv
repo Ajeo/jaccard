@@ -1,31 +1,31 @@
 Topic,Top Terms
-Image Processing,terms topic_id
-Optimization,terms topic_id
-Modeling and Simulation,terms topic_id
-Image Processing-1,terms topic_id
-Metaheuristics,terms topic_id
-Image Processing-2,terms topic_id
-Image Processing-3,terms topic_id
-Robotics,terms topic_id
-Image Processing-4,terms topic_id
-Statistical Computing,terms topic_id
-Multimedia,terms topic_id
-Human Computer Interaction,terms topic_id
-Image Processing-5,terms topic_id
-Metaheuristics-1,terms topic_id
-Multimedia-1,terms topic_id
-Image Processing-6,terms topic_id
-Metaheuristics-2,terms topic_id
-Algorithms,terms topic_id
-Image Processing-7,terms topic_id
-Image Processing-8,terms topic_id
-Telecommunications,terms topic_id
-Software Engineering,terms topic_id
-Information Retrieval,terms topic_id
-Image Processing-9,terms topic_id
-Human Computer Interaction-1,terms topic_id
-Algorithms-1,terms topic_id
-Image Processing-10,terms topic_id
-Image Processing-11,terms topic_id
-Multimedia-2,terms topic_id
-Multimedia-3,terms topic_id
+Image Processing,deformation solid volumetric representation textures object models animating capturing implicit points illustration set boundary level three-dimensional hierarchical tree algorithm convex
+Optimization,shadow efficient constraints algorithm soft matting transfer volume volumes selection tool layouts quad quality meshing manifolds repeated energy structures high-resolution
+Modeling and Simulation,sampling media scattering participating compact importance environment properties physical reproduction theory subsurface factored structured acquiring set maps propagation continuous fabricating
+Image Processing-1,multiple single progressive photon hair scattering face triangle capture simulating graphical probabilistic refractive mapping estimation spherical approach defocus images projection
+Metaheuristics,transfer functions radiance scenes precomputed sound complex lighting approximation wavelet spherical propagation shadows harmonic all-frequency local diagrams set basis tensor
+Image Processing-2,shape automatic generation maps approach variational geometry deformation texture photometric controllable processing coherent conformal eulerian alignment patch-based feature lens vectorization
+Image Processing-3,reconstruction line robust data-driven locomotion drawing scenes space body data parameterization semantic biped automated planning multidimensional composition sets physics-based range
+Robotics,human characters visual based physically animated computing animations evaluating realistic statistical new virtual synthesizing video-based creating feedback performance flow low-dimensional
+Image Processing-4,manipulation character contact efficient complex models sparse skinning perceptual accurate simplicial multigrid deformable solids collisions scheme through toward moving modal
+Statistical Computing,ray tracing system programmable computer intersection adaptive scenes methods hardware gradient engine projection sampling acquisition coherent bounding photography markov artistic
+Multimedia,discrete via processing gpu flow large algorithm graph laplacian gradient-domain edge-aware curvature problem robust improving stylized geodesic incompressible animating novel
+Human Computer Interaction,interface user character interfaces tracking photographs visualization generalized special software simulated recursive guest embedded transformation space effects specification physically virtual
+Image Processing-5,fluid shapes rigid water deformable thin smoke shells computation coupling bodies preserving fluids topology extraction animating models features generalized changes
+Metaheuristics-1,curves point algebraic parallel rational fitting distance algorithms continuity parametric liquid transform locally clouds b-spline plane tangent tetrahedral simple construction
+Multimedia-1,field photo displays decomposition via collections enhancement intrinsic multiscale scalable images display detail optimized direction photography optimizing optimization compressive relighting
+Image Processing-6,reflectance facial color analysis acquisition human practical skin relighting performance spaces information reconstruction heterogeneous hair quantization temporal faces bidirectional basis
+Metaheuristics-2,geometry analysis shading method algorithms symmetry polygon efficient topology detection integer partial active fourier exact techniques hybrid forward facades approximate
+Algorithms,illumination global efficient maps applications representation shapes polynomial computation brdf dense smooth components approach gpu-based separation synthetic between progressive propagation
+Image Processing-7,capture camera facial interaction imaging high-quality high view performance realtime sparse single stereo three resolution passive two visualizing large displays
+Image Processing-8,adaptive linear shape models multiresolution stochastic polygonal sampling subspace point efficient programming general integration segmentation reflectance visualization fluids joint problems
+Telecommunications,field fields depth real learning practical photography time perception cameras aperture blur frequency analysis filtering coded style extended enhanced complex
+Software Engineering,high display range mapping compression scene through hardware texture tessellation tone evaluation approximating displacement direct quality analytic methods modular domain
+Information Retrieval,data subdivision structures automatic nurbs building spatial patches structure visual metric bicubic varying poisson-disk out-of-core irregular hardware conditions visibility quality
+Image Processing-9,models procedural continuous articulated deformable inverse collision simulations detection culling highly kinematics reduced deforming polygons terrain self-collision geometrically programming volume
+Human Computer Interaction-1,environments virtual global local illumination glossy perspective approximate detailed designing combining upsampling fracture synthetic basis projections realistic into generated estimation
+Algorithms-1,texture interpolation splines arbitrary planar algorithm cubic coordinates implicit topological constrained new distortion spline triangular smoothing spherical mapping applications triangulation
+Image Processing-10,subdivision vector diffusion dynamics based shape deformations fluid curve matching construction curves textures urban smooth elements poisson images solver biharmonic
+Image Processing-11,image-based cloth appearance reconstruction optimization approach material lighting hair nonlinear inverse effects friction extracting detail framework unified accurate encoding texture
+Multimedia-2,images color digital example-based simple elastic method tree printing operations computational spatially-varying improved dual enhancement tone style hdr high-resolution patterns
+Multimedia-3,materials noise anisotropic transport visibility framework filtering hierarchical domain translucent optimal error blue exploration carlo monte layout technique path structure

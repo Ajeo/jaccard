@@ -1,31 +1,31 @@
 Topic,Top Terms
-Metaheuristics,terms topic_id
-Embedded Systems,terms topic_id
-Metaheuristics-1,terms topic_id
-Machine Learning,terms topic_id
-Multimedia,terms topic_id
-Numerical Methods,terms topic_id
-Circuits and VLSI design,terms topic_id
-Circuits and VLSI design-1,terms topic_id
-Circuits and VLSI design-2,terms topic_id
-Circuits and VLSI design-3,terms topic_id
-Embedded Systems-1,terms topic_id
-Circuits and VLSI design-4,terms topic_id
-Algorithms,terms topic_id
-Statistical Computing,terms topic_id
-Statistical Computing-1,terms topic_id
-Multimedia-1,terms topic_id
-Computer Architecture,terms topic_id
-Software Engineering,terms topic_id
-Circuits and VLSI design-5,terms topic_id
-Metaheuristics-2,terms topic_id
-Embedded Systems-2,terms topic_id
-Machine Learning-1,terms topic_id
-Circuits and VLSI design-6,terms topic_id
-Circuits and VLSI design-7,terms topic_id
-Machine Learning-2,terms topic_id
-Algorithms-1,terms topic_id
-Metaheuristics-3,terms topic_id
-Machine Learning-3,terms topic_id
-Embedded Systems-3,terms topic_id
-Computer Architecture-1,terms topic_id
+Metaheuristics,state minimization sequential machines multilevel functions finite testability exact decomposition assignment boolean symbolic optimal combinational testable identification specified procedure approximate
+Embedded Systems,from framework hardware data verification automatic behavioral system-level specifications asynchronous technique generating formal patterns layout rtl cad models layouts abstraction
+Metaheuristics-1,mapping partitioning technology fpgas fpga placement arrays global local performance-driven incremental area problem reconfigurable minimization clustering gate architecture replication field-programmable
+Machine Learning,decision application diagrams minimizing identification boolean covering functions clustering general representation binary ordering debugging their its number critical floorplans function
+Multimedia,digital microfluidic biochips estimation methodology filters probabilistic switching activity elimination new signal order complexity common filter toward computation fir statistics
+Numerical Methods,device semiconductor new 3-d extraction simulator capacitance discretization numerical structures adaptive two-dimensional element solver equations scheme boundary grid 2-d large-scale
+Circuits and VLSI design,mos effects transport transistor coupled oscillators diffusion including high effect models degradation transistors boundary mosfets formulation small-signal due point interface
+Circuits and VLSI design-1,dynamic voltage scaling supply technique estimation energy temperature thermal management prediction noise microprocessors fast accurate profile performance aware real-time on-chip
+Circuits and VLSI design-2,3-d techniques ics thermal extraction effective via integrated interconnect fast placement reduction capacitance analytical nonlinear sampling statistical computation area substrate
+Circuits and VLSI design-3,crosstalk interconnects noise interconnect transmission on-chip high-speed coupling lines line hierarchical verification rlc transient models signal constraints coupled under lossy
+Embedded Systems-1,verification system checking level digital signal functional flow automatic arithmetic formal equivalence new techniques property architectural solutions practical high cad
+Circuits and VLSI design-4,gate layout cmos programming assignment problem system global matrix linear new sizing asynchronous transistor array selection fast computing cell router
+Algorithms,editorial guest evaluation boolean waveform techniques solving relaxation exploiting matching equations atpg satisfiability parallel solution large sat-based acceleration special block
+Statistical Computing,statistical process yield variations performance considering variation estimation parametric integrated reliability under characterization interconnect prediction spatial static defects presence variability
+Statistical Computing-1,device parallel carlo monte three-dimensional process simulator devices semiconductor two-dimensional numerical models development silicon ion implementation simulations annealing comparison gaas
+Multimedia-1,reduction via nonlinear fast approximation layout interconnect lithography placement order accurate novel decomposition frequency reduced networks domain double enhanced quadratic
+Computer Architecture,scheduling embedded constraints memory performance control heterogeneous distributed multiprocessor architectures on-chip system-on-chip communication under techniques task network partitioning real-time platforms
+Software Engineering,analog networks compaction symbolic network integrated nonlinear statistical response methods models neural hierarchical mixed layout behavioral large technique structural improvement
+Circuits and VLSI design-5,clock buffer sizing insertion wire optimal simultaneous skew floorplan network gate tree minimization methodology retiming nets via fast reduction low-power
+Metaheuristics-2,placement layout cell global router hierarchical channel standard designs assignment area pin floorplanning constraints optimal minimization simulated blocks analytical timing-driven
+Embedded Systems-2,exploration application space embedded hardware performance high-level processors methodology its software selection automatic processor architectures communication fast parallel instruction pipelining
+Machine Learning-1,faults sequential path functional diagnosis synchronous combinational testing pattern cmos sets coverage tests bridging multiple set random critical static single
+Circuits and VLSI design-6,cmos current models submicron mosfet bipolar integrated deep estimation gates technology applications technologies analytical wiring static digital cad simple accurate
+Circuits and VLSI design-7,mosfet mos spice switch-level device simulator channel transient fast parameters devices sensitivity its tool compact reliability analog digital chips extraction
+Machine Learning-2,scan testing reduction testability bist designs technique multiple time scheme during at-speed new low under control application reducing coverage transition
+Algorithms-1,integrated linear improved analog fast applications robust cellular implementation probabilistic computation macromodeling automata automation generator problems compaction spectral placement methods
+Metaheuristics-3,tree steiner trees rectilinear problem optimal topological minimization problems construction new minimum multilayer folding generalized graph two graphs search via
+Machine Learning-3,high-level register scheduling time concurrent optimizing allocation designs hierarchical signature code dsp reduction self-checking charge transformations registers execution sharing accelerating
+Embedded Systems-3,arrays built-in error concurrent testing new programmable detection memories memory multilevel pattern self-test systolic pseudorandom multiple enhancement random processor self-repair
+Computer Architecture-1,data system compression memory management embedded low-power silicon adaptive testing architecture performance paths structure applications through soc energy processors environment

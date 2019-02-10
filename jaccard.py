@@ -5,16 +5,19 @@ from os.path import isfile, join
 import csv
 import json
 
+
 def csv_writer(data, path):
     with open(path, "wb") as csv_file:
         writer = csv.writer(csv_file, delimiter=',')
         for line in data:
             writer.writerow(line)
 
+
 def get_index(seq, attr, value):
     return next(index for (index, d) in enumerate(seq) if d[attr] == value)
 
-def readTopics():
+
+def read_topics():
     topics = []
     with open('topics.csv', 'rb') as f:
         reader = csv.reader(f)
@@ -23,13 +26,15 @@ def readTopics():
             topics.append({row[0] : row[1].split(' ')})
     return topics
 
+
 def jaccard(list1, list2):
     return float(len(set(list1) & set(list2))) / len(set(list1) | set(list2))
+
 
 def set_sliced_usage_topic(fi, topic_maps):
     file_name = fi.replace('top-terms.csv', 'sliced-usage.json')
 
-    json_data = open('./input/json/'+ file_name)
+    json_data = open('./input/json/' + file_name)
     sliced_usages = json.load(json_data)
     json_data.close()
 
@@ -40,6 +45,7 @@ def set_sliced_usage_topic(fi, topic_maps):
 
     with open('./output/json/'+ file_name, 'w') as outfile:
         json.dump(sliced_usages, outfile, indent=4)
+
 
 def set_top_terms_topic(fi, topics):
     output = [['Topic', 'Top Terms']]
@@ -76,8 +82,9 @@ def set_top_terms_topic(fi, topics):
 
     return topic_maps
 
-if ( __name__ == "__main__"):
-    topics = readTopics()
+
+if __name__ == "__main__":
+    topics = read_topics()
 
     root_dir = "./input/csv"
     files = [ f for f in listdir(root_dir) if isfile(join(root_dir,f)) ]
@@ -85,7 +92,7 @@ if ( __name__ == "__main__"):
     if files[0] == '.DS_Store':
         files.pop(0)
 
-    for fi in files:
-        topic_maps = set_top_terms_topic(fi, topics)
-        set_sliced_usage_topic(fi, topic_maps)
-        print fi
+    for f in files:
+        topic_maps = set_top_terms_topic(f, topics)
+        set_sliced_usage_topic(f, topic_maps)
+        print(f)

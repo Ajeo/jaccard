@@ -1,8 +1,8 @@
 # Jaccard
 
-This script use [Jaccard Index](https://es.wikipedia.org/wiki/%C3%8Dndice_Jaccard) to discover the topic name related to some top terms.
+This script uses [Jaccard Index](https://es.wikipedia.org/wiki/%C3%8Dndice_Jaccard) to discover the topic name related to some top terms.
 
-I used for my thesis project for my CS Degree. You can check it in [dblp-journals](https://github.com/Ajeo/dblp-journals).
+I used it for my CS thesis project. You can check it out in [dblp-journals](https://github.com/Ajeo/dblp-journals).
 
 # Dependencies
 
